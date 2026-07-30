@@ -1,0 +1,28 @@
+{
+  "lists": [
+    {
+      "name": "Top-Rated Kids Films",
+      "username": "suttydolt",
+      "slug": "top-rated-kids-films-1950-current",
+      "media_type": "movie",
+      "output": "catalog/movie/kids-top-rated-films.json",
+      "max_items": 250
+    },
+    {
+      "name": "Trending Kids Movies",
+      "username": "snoak",
+      "slug": "trending-kids-movies",
+      "media_type": "movie",
+      "output": "catalog/movie/kids-trending-movies.json",
+      "max_items": 200
+    },
+    {
+      "name": "Popular Animated Movies",
+      "username": "snoak",
+      "slug": "popular-animated-movies",
+      "media_type": "movie",
+      "output": "catalog/movie/kids-popular-animation.json",
+      "max_items": 250
+    }
+  ]
+}
