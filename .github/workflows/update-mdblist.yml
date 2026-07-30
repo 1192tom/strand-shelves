@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  update-kids-films:
+  update-lists:
     runs-on: ubuntu-latest
 
     steps:
@@ -21,12 +21,12 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Build Family Movie Night catalogue
+      - name: Build MDBList catalogues
         env:
           MDBLIST_API_KEY: ${{ secrets.MDBLIST_API_KEY }}
-        run: python scripts/update_mdblist_kids.py
+        run: python scripts/update_mdblists.py
 
-      - name: Commit updated catalogue
+      - name: Commit updated catalogues
         run: |
           if git diff --quiet; then
             echo "No catalogue changes."
@@ -35,6 +35,6 @@ jobs:
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add catalog/movie/kids-family-movies.json
-          git commit -m "Update Family Movie Night from MDBList"
+          git add catalog/movie catalog/series
+          git commit -m "Update Strand catalogues from MDBList"
           git push
