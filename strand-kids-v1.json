@@ -1,0 +1,193 @@
+{
+  "shelves": [
+    {
+      "isEnabled": true,
+      "id": "027E6AC4-8766-413C-80E1-14039B6B1527",
+      "sortOrder": 100,
+      "title": "Kids",
+      "style": "collections_row",
+      "source": {
+        "group": {
+          "_0": {
+            "hideTitle": false,
+            "tileShape": "poster",
+            "contentSources": [
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "kids-paw-patrol",
+                        "type": "series",
+                        "catalogName": "PAW Patrol",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "PAW Patrol",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt3121722/img",
+                "id": "435472B9-C070-426E-8FAD-C8CA7973C1E0"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "kids-bluey",
+                        "type": "series",
+                        "catalogName": "Bluey",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Bluey",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt7678620/img",
+                "id": "9FFC11F3-5065-4E95-93C4-4F8F1DCAADF7"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "kids-cbeebies",
+                        "type": "series",
+                        "catalogName": "CBeebies Favourites",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "CBeebies Favourites",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt4291050/img",
+                "id": "725A45FD-4360-4BB8-A126-7E838A2C11E2"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "kids-cbbc",
+                        "type": "series",
+                        "catalogName": "CBBC Favourites",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "CBBC Favourites",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt1400819/img",
+                "id": "62C9FE68-A847-47F4-BC96-8F5AF2275F29"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "kids-family-movies",
+                        "type": "movie",
+                        "catalogName": "Family Movie Night",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Family Movie Night",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt1109624/img",
+                "id": "D768DABD-C47B-4B1B-AA2D-12253017E00D"
+              }
+            ],
+            "title": "Kids"
+          }
+        }
+      }
+    }
+  ],
+  "addons": [
+    {
+      "version": "0.2.0",
+      "configurable": false,
+      "sortOrder": 0,
+      "name": "Strand Shelves",
+      "configurationRequired": false,
+      "isEnabled": true,
+      "catalogs": [
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "kids-paw-patrol",
+          "type": "series",
+          "name": "PAW Patrol"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "kids-bluey",
+          "type": "series",
+          "name": "Bluey"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "kids-cbeebies",
+          "type": "series",
+          "name": "CBeebies Favourites"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "kids-cbbc",
+          "type": "series",
+          "name": "CBBC Favourites"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "kids-family-movies",
+          "type": "movie",
+          "name": "Family Movie Night"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "ridley-scott",
+          "type": "movie",
+          "name": "Ridley Scott"
+        }
+      ],
+      "baseUrl": "https://1192tom.github.io/strand-shelves/",
+      "id": "com.1192tom.strandshelves",
+      "types": [
+        "movie",
+        "series"
+      ],
+      "description": "Curated movie, TV and kids catalogues for Strand.",
+      "includeInSearch": true,
+      "resources": [
+        "catalog"
+      ]
+    }
+  ],
+  "version": 1
+}

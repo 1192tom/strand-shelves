@@ -1,9 +1,8 @@
 {
   "id": "com.1192tom.strandshelves",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "name": "Strand Shelves",
   "description": "Curated movie, TV and kids catalogues for Strand.",
-  "logo": "https://1192tom.github.io/strand-shelves/logo.png",
   "resources": [
     "catalog"
   ],
@@ -15,7 +14,27 @@
     {
       "type": "series",
       "id": "kids-paw-patrol",
-      "name": "Paw Patrol"
+      "name": "PAW Patrol"
+    },
+    {
+      "type": "series",
+      "id": "kids-bluey",
+      "name": "Bluey"
+    },
+    {
+      "type": "series",
+      "id": "kids-cbeebies",
+      "name": "CBeebies Favourites"
+    },
+    {
+      "type": "series",
+      "id": "kids-cbbc",
+      "name": "CBBC Favourites"
+    },
+    {
+      "type": "movie",
+      "id": "kids-family-movies",
+      "name": "Family Movie Night"
     },
     {
       "type": "movie",
