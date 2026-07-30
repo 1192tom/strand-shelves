@@ -150,7 +150,7 @@ def main() -> int:
             params["cursor"] = cursor
 
         url = (
-            f"{API_BASE}/lists/{USERNAME}/{LIST_SLUG}/items?"
+            f"{API_BASE}/lists/{USERNAME}/{LIST_SLUG}/items/movie?"
             + urllib.parse.urlencode(params)
         )
         payload, headers = fetch_json(url)
