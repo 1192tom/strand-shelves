@@ -1,6 +1,6 @@
 {
   "id": "com.1192tom.strandshelves",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "name": "Strand Shelves",
   "description": "Curated movie, TV and kids catalogues for Strand.",
   "resources": [
@@ -40,6 +40,36 @@
       "type": "movie",
       "id": "kids-popular-animation",
       "name": "Popular Animated Movies"
+    },
+    {
+      "type": "movie",
+      "id": "director-christopher-nolan",
+      "name": "Christopher Nolan"
+    },
+    {
+      "type": "movie",
+      "id": "director-ridley-scott",
+      "name": "Ridley Scott"
+    },
+    {
+      "type": "movie",
+      "id": "director-denis-villeneuve",
+      "name": "Denis Villeneuve"
+    },
+    {
+      "type": "movie",
+      "id": "studio-a24",
+      "name": "A24"
+    },
+    {
+      "type": "movie",
+      "id": "studio-pixar",
+      "name": "Pixar"
+    },
+    {
+      "type": "movie",
+      "id": "studio-studio-ghibli",
+      "name": "Studio Ghibli"
     }
   ],
   "behaviorHints": {

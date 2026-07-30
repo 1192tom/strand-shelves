@@ -1,0 +1,256 @@
+{
+  "shelves": [
+    {
+      "isEnabled": true,
+      "id": "69F51774-A58D-4B5B-984F-05B84B98F92D",
+      "sortOrder": 110,
+      "title": "Movies",
+      "style": "collections_row",
+      "source": {
+        "group": {
+          "_0": {
+            "hideTitle": false,
+            "tileShape": "poster",
+            "contentSources": [
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "director-christopher-nolan",
+                        "type": "movie",
+                        "catalogName": "Christopher Nolan",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Christopher Nolan",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt1375666/img",
+                "id": "792406E1-22EC-425F-ABAD-76273C5F22AC"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "director-ridley-scott",
+                        "type": "movie",
+                        "catalogName": "Ridley Scott",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Ridley Scott",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt0083658/img",
+                "id": "4F01E4AF-A7B1-46C3-B368-4C9238561F2B"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "director-denis-villeneuve",
+                        "type": "movie",
+                        "catalogName": "Denis Villeneuve",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Denis Villeneuve",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt1160419/img",
+                "id": "881B20DC-5794-40AB-83EE-7C5FA782CD01"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "studio-a24",
+                        "type": "movie",
+                        "catalogName": "A24",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "A24",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt6710474/img",
+                "id": "4BC5F96B-F2E3-4E6B-AE2B-141BFEFB805E"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "studio-pixar",
+                        "type": "movie",
+                        "catalogName": "Pixar",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Pixar",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt0114709/img",
+                "id": "30E876D1-86DA-4637-8117-F75036C424B8"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "studio-studio-ghibli",
+                        "type": "movie",
+                        "catalogName": "Studio Ghibli",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Studio Ghibli",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt0245429/img",
+                "id": "ED899112-9EFD-4A48-A757-A56CE0097EA8"
+              }
+            ],
+            "title": "Movies"
+          }
+        }
+      }
+    }
+  ],
+  "addons": [
+    {
+      "version": "0.4.0",
+      "configurable": false,
+      "sortOrder": 0,
+      "name": "Strand Shelves",
+      "configurationRequired": false,
+      "isEnabled": true,
+      "catalogs": [
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "kids-favourites",
+          "type": "series",
+          "name": "Their Favourites"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "kids-cbeebies",
+          "type": "series",
+          "name": "CBeebies Favourites"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "kids-cbbc",
+          "type": "series",
+          "name": "CBBC Favourites"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "kids-top-rated-films",
+          "type": "movie",
+          "name": "Top-Rated Kids Films"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "kids-trending-movies",
+          "type": "movie",
+          "name": "Trending Kids Movies"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "kids-popular-animation",
+          "type": "movie",
+          "name": "Popular Animated Movies"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-christopher-nolan",
+          "type": "movie",
+          "name": "Christopher Nolan"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-ridley-scott",
+          "type": "movie",
+          "name": "Ridley Scott"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-denis-villeneuve",
+          "type": "movie",
+          "name": "Denis Villeneuve"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "studio-a24",
+          "type": "movie",
+          "name": "A24"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "studio-pixar",
+          "type": "movie",
+          "name": "Pixar"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "studio-studio-ghibli",
+          "type": "movie",
+          "name": "Studio Ghibli"
+        }
+      ],
+      "baseUrl": "https://1192tom.github.io/strand-shelves/",
+      "id": "com.1192tom.strandshelves",
+      "types": [
+        "movie",
+        "series"
+      ],
+      "description": "Curated movie, TV and kids catalogues for Strand.",
+      "includeInSearch": true,
+      "resources": [
+        "catalog"
+      ]
+    }
+  ],
+  "version": 1
+}
