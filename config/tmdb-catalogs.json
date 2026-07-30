@@ -1,0 +1,49 @@
+{
+  "catalogs": [
+    {
+      "name": "Christopher Nolan",
+      "catalog_id": "director-christopher-nolan",
+      "kind": "director",
+      "query": "Christopher Nolan",
+      "output": "catalog/movie/director-christopher-nolan.json"
+    },
+    {
+      "name": "Ridley Scott",
+      "catalog_id": "director-ridley-scott",
+      "kind": "director",
+      "query": "Ridley Scott",
+      "output": "catalog/movie/director-ridley-scott.json"
+    },
+    {
+      "name": "Denis Villeneuve",
+      "catalog_id": "director-denis-villeneuve",
+      "kind": "director",
+      "query": "Denis Villeneuve",
+      "output": "catalog/movie/director-denis-villeneuve.json"
+    },
+    {
+      "name": "A24",
+      "catalog_id": "studio-a24",
+      "kind": "company",
+      "query": "A24",
+      "output": "catalog/movie/studio-a24.json",
+      "max_items": 300
+    },
+    {
+      "name": "Pixar",
+      "catalog_id": "studio-pixar",
+      "kind": "company",
+      "query": "Pixar",
+      "output": "catalog/movie/studio-pixar.json",
+      "max_items": 150
+    },
+    {
+      "name": "Studio Ghibli",
+      "catalog_id": "studio-studio-ghibli",
+      "kind": "company",
+      "query": "Studio Ghibli",
+      "output": "catalog/movie/studio-studio-ghibli.json",
+      "max_items": 150
+    }
+  ]
+}
