@@ -1,0 +1,30 @@
+{
+  "id": "com.1192tom.strandshelves",
+  "version": "0.1.0",
+  "name": "Strand Shelves",
+  "description": "Curated movie, TV and kids catalogues for Strand.",
+  "logo": "https://1192tom.github.io/strand-shelves/logo.png",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "catalogs": [
+    {
+      "type": "series",
+      "id": "kids-paw-patrol",
+      "name": "Paw Patrol"
+    },
+    {
+      "type": "movie",
+      "id": "ridley-scott",
+      "name": "Ridley Scott"
+    }
+  ],
+  "behaviorHints": {
+    "configurable": false,
+    "configurationRequired": false
+  }
+}
