@@ -1,0 +1,62 @@
+{
+  "shelves": [
+    {
+      "source": {
+        "addonCatalog": {
+          "_0": {
+            "addonName": "Strand Shelves",
+            "catalogId": "kids-paw-patrol",
+            "catalogName": "Paw Patrol",
+            "type": "series",
+            "baseUrl": "https://1192tom.github.io/strand-shelves/",
+            "addonId": "com.1192tom.strandshelves"
+          }
+        }
+      },
+      "title": "PAW Patrol — Imported Test",
+      "id": "9CD8E7FE-29A5-4A25-ABCA-16584A0943EC",
+      "isEnabled": true,
+      "sortOrder": 100,
+      "style": "row_classic"
+    }
+  ],
+  "ratingIconPackURL": "https://raw.githubusercontent.com/lpierpoint/strand-assets/main/icons/icons.json",
+  "addons": [
+    {
+      "version": "0.1.0",
+      "configurable": false,
+      "sortOrder": 0,
+      "name": "Strand Shelves",
+      "configurationRequired": false,
+      "isEnabled": true,
+      "catalogs": [
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "kids-paw-patrol",
+          "type": "series",
+          "name": "Paw Patrol"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "ridley-scott",
+          "type": "movie",
+          "name": "Ridley Scott"
+        }
+      ],
+      "baseUrl": "https://1192tom.github.io/strand-shelves/",
+      "id": "com.1192tom.strandshelves",
+      "types": [
+        "movie",
+        "series"
+      ],
+      "description": "Curated movie, TV and kids catalogues for Strand.",
+      "includeInSearch": true,
+      "resources": [
+        "catalog"
+      ]
+    }
+  ],
+  "version": 1
+}
