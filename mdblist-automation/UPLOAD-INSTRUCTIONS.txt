@@ -1,0 +1,23 @@
+MDBLIST AUTOMATION
+
+This package adds an automatic MDBList refresh to the existing strand-shelves repository.
+
+Before uploading:
+1. In GitHub open Settings > Secrets and variables > Actions.
+2. Create a repository secret named exactly:
+   MDBLIST_API_KEY
+3. Paste your MDBList API key as the secret value.
+
+Upload these folders to the ROOT of the repository, preserving the folders:
+.github/workflows/update-mdblist.yml
+scripts/update_mdblist_kids.py
+
+Then:
+1. Open the Actions tab.
+2. Select "Update MDBList catalogues".
+3. Click "Run workflow".
+4. Wait for a green tick.
+5. Open catalog/movie/kids-family-movies.json and confirm it now contains the MDBList titles.
+
+The workflow also runs daily at 04:20 UTC.
+It updates the existing Family Movie Night catalogue, so there is no need to re-import the Strand shelf.
