@@ -1,6 +1,6 @@
 {
   "id": "com.1192tom.strandshelves",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "name": "Strand Shelves",
   "description": "Curated movie, TV and kids catalogues for Strand.",
   "resources": [
@@ -13,13 +13,8 @@
   "catalogs": [
     {
       "type": "series",
-      "id": "kids-paw-patrol",
-      "name": "PAW Patrol"
-    },
-    {
-      "type": "series",
-      "id": "kids-bluey",
-      "name": "Bluey"
+      "id": "kids-favourites",
+      "name": "Their Favourites"
     },
     {
       "type": "series",
@@ -33,13 +28,18 @@
     },
     {
       "type": "movie",
-      "id": "kids-family-movies",
-      "name": "Family Movie Night"
+      "id": "kids-top-rated-films",
+      "name": "Top-Rated Kids Films"
     },
     {
       "type": "movie",
-      "id": "ridley-scott",
-      "name": "Ridley Scott"
+      "id": "kids-trending-movies",
+      "name": "Trending Kids Movies"
+    },
+    {
+      "type": "movie",
+      "id": "kids-popular-animation",
+      "name": "Popular Animated Movies"
     }
   ],
   "behaviorHints": {

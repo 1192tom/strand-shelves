@@ -1,0 +1,214 @@
+{
+  "shelves": [
+    {
+      "isEnabled": true,
+      "id": "AEECD5C4-0073-4D52-B45C-87E2CD29B33E",
+      "sortOrder": 100,
+      "title": "Kids",
+      "style": "collections_row",
+      "source": {
+        "group": {
+          "_0": {
+            "hideTitle": false,
+            "tileShape": "poster",
+            "contentSources": [
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "kids-favourites",
+                        "type": "series",
+                        "catalogName": "Their Favourites",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Their Favourites",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt3121722/img",
+                "id": "A77BAABA-FCFD-4CC3-82A9-63909BF26EBC"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "kids-cbeebies",
+                        "type": "series",
+                        "catalogName": "CBeebies Favourites",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "CBeebies Favourites",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt4291050/img",
+                "id": "53576D60-FC17-4BF3-9A5E-4EDDB398D8FA"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "kids-cbbc",
+                        "type": "series",
+                        "catalogName": "CBBC Favourites",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "CBBC Favourites",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt1400819/img",
+                "id": "FE320D3F-D005-4613-93F4-8A43C7EEA445"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "kids-top-rated-films",
+                        "type": "movie",
+                        "catalogName": "Top-Rated Kids Films",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Top-Rated Kids Films",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt1109624/img",
+                "id": "34448491-A29D-42A2-9EBA-0E54DEEAD75E"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "kids-trending-movies",
+                        "type": "movie",
+                        "catalogName": "Trending Kids Movies",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Trending Kids Movies",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt2953050/img",
+                "id": "D5634073-BF09-4722-8492-75143EEF9AB8"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "kids-popular-animation",
+                        "type": "movie",
+                        "catalogName": "Popular Animated Movies",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Popular Animated Movies",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt0114709/img",
+                "id": "C75B8112-54E3-4A11-B3C7-989D624210F4"
+              }
+            ],
+            "title": "Kids"
+          }
+        }
+      }
+    }
+  ],
+  "addons": [
+    {
+      "version": "0.3.0",
+      "configurable": false,
+      "sortOrder": 0,
+      "name": "Strand Shelves",
+      "configurationRequired": false,
+      "isEnabled": true,
+      "catalogs": [
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "kids-favourites",
+          "type": "series",
+          "name": "Their Favourites"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "kids-cbeebies",
+          "type": "series",
+          "name": "CBeebies Favourites"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "kids-cbbc",
+          "type": "series",
+          "name": "CBBC Favourites"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "kids-top-rated-films",
+          "type": "movie",
+          "name": "Top-Rated Kids Films"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "kids-trending-movies",
+          "type": "movie",
+          "name": "Trending Kids Movies"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "kids-popular-animation",
+          "type": "movie",
+          "name": "Popular Animated Movies"
+        }
+      ],
+      "baseUrl": "https://1192tom.github.io/strand-shelves/",
+      "id": "com.1192tom.strandshelves",
+      "types": [
+        "movie",
+        "series"
+      ],
+      "description": "Curated movie, TV and kids catalogues for Strand.",
+      "includeInSearch": true,
+      "resources": [
+        "catalog"
+      ]
+    }
+  ],
+  "version": 1
+}
