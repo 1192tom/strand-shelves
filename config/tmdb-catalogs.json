@@ -25,7 +25,7 @@
       "name": "A24",
       "catalog_id": "studio-a24",
       "kind": "company",
-      "query": "A24",
+      "company_id": 41077,
       "output": "catalog/movie/studio-a24.json",
       "max_items": 300
     },
