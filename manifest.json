@@ -1,8 +1,8 @@
 {
   "id": "com.1192tom.strandshelves",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "name": "Strand Shelves",
-  "description": "Curated movie, TV, kids and UK catalogues for Strand.",
+  "description": "Curated movie, TV, kids, UK and franchise catalogues for Strand.",
   "resources": [
     "catalog"
   ],
@@ -340,6 +340,86 @@
       "type": "movie",
       "id": "uk-sky-original-films",
       "name": "Sky Original Films"
+    },
+    {
+      "type": "movie",
+      "id": "franchise-marvel",
+      "name": "Marvel"
+    },
+    {
+      "type": "movie",
+      "id": "franchise-dc",
+      "name": "DC Universe"
+    },
+    {
+      "type": "movie",
+      "id": "franchise-star-wars",
+      "name": "Star Wars"
+    },
+    {
+      "type": "movie",
+      "id": "franchise-harry-potter",
+      "name": "Harry Potter"
+    },
+    {
+      "type": "movie",
+      "id": "franchise-middle-earth",
+      "name": "Middle-earth"
+    },
+    {
+      "type": "movie",
+      "id": "franchise-james-bond",
+      "name": "James Bond"
+    },
+    {
+      "type": "movie",
+      "id": "franchise-alien-predator",
+      "name": "Alien & Predator"
+    },
+    {
+      "type": "movie",
+      "id": "franchise-pirates",
+      "name": "Pirates of the Caribbean"
+    },
+    {
+      "type": "movie",
+      "id": "franchise-terminator",
+      "name": "Terminator"
+    },
+    {
+      "type": "movie",
+      "id": "franchise-mission-impossible",
+      "name": "Mission: Impossible"
+    },
+    {
+      "type": "movie",
+      "id": "franchise-jurassic",
+      "name": "Jurassic Park"
+    },
+    {
+      "type": "movie",
+      "id": "franchise-matrix",
+      "name": "The Matrix"
+    },
+    {
+      "type": "movie",
+      "id": "franchise-fast-furious",
+      "name": "Fast & Furious"
+    },
+    {
+      "type": "movie",
+      "id": "franchise-spider-man",
+      "name": "Spider-Man"
+    },
+    {
+      "type": "movie",
+      "id": "franchise-batman",
+      "name": "Batman"
+    },
+    {
+      "type": "movie",
+      "id": "franchise-superman",
+      "name": "Superman"
     }
   ],
   "behaviorHints": {

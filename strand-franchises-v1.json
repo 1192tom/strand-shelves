@@ -1,0 +1,982 @@
+{
+  "shelves": [
+    {
+      "id": "88591C0D-6DB1-470E-AA52-24CA947E2FE9",
+      "title": "Major Universes",
+      "style": "collections_row",
+      "sortOrder": 300,
+      "isEnabled": true,
+      "source": {
+        "group": {
+          "_0": {
+            "title": "Major Universes",
+            "tileShape": "wide",
+            "contentSources": [
+              {
+                "id": "003583DF-9F5C-41A3-8272-A72F4CB1BCEB",
+                "title": "Marvel",
+                "tileShape": "wide",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "type": "movie",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/",
+                        "catalogId": "franchise-marvel",
+                        "catalogName": "Marvel"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/Marvel.jpg"
+              },
+              {
+                "id": "BD83CAD3-0884-44A9-A7BE-BC00936A45D7",
+                "title": "DC Universe",
+                "tileShape": "wide",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "type": "movie",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/",
+                        "catalogId": "franchise-dc",
+                        "catalogName": "DC Universe"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/DC.jpg"
+              },
+              {
+                "id": "C84CA2F6-5BD2-42F3-BBF4-687E0394A253",
+                "title": "Star Wars",
+                "tileShape": "wide",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "type": "movie",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/",
+                        "catalogId": "franchise-star-wars",
+                        "catalogName": "Star Wars"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/Star-Wars.jpg"
+              },
+              {
+                "id": "90573C16-7EA5-4DF2-925C-DCADA7543D5C",
+                "title": "Harry Potter",
+                "tileShape": "wide",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "type": "movie",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/",
+                        "catalogId": "franchise-harry-potter",
+                        "catalogName": "Harry Potter"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/Harry-Potter.jpg"
+              },
+              {
+                "id": "59F4CC2D-7D37-4C9C-BBF1-525710ED27EF",
+                "title": "Middle-earth",
+                "tileShape": "wide",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "type": "movie",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/",
+                        "catalogId": "franchise-middle-earth",
+                        "catalogName": "Middle-earth"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/lotr.jpg"
+              },
+              {
+                "id": "AF48BD50-ADC4-4F9B-9066-8BBD37A45926",
+                "title": "Spider-Man",
+                "tileShape": "wide",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "type": "movie",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/",
+                        "catalogId": "franchise-spider-man",
+                        "catalogName": "Spider-Man"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://images.metahub.space/background/medium/tt0145487/img"
+              },
+              {
+                "id": "E0CE26C3-D1F8-445E-BE6B-E348DD84F891",
+                "title": "Batman",
+                "tileShape": "wide",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "type": "movie",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/",
+                        "catalogId": "franchise-batman",
+                        "catalogName": "Batman"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://images.metahub.space/background/medium/tt0468569/img"
+              },
+              {
+                "id": "905AE458-97E2-4EA2-974C-7C2A26C0341A",
+                "title": "Superman",
+                "tileShape": "wide",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "type": "movie",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/",
+                        "catalogId": "franchise-superman",
+                        "catalogName": "Superman"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://images.metahub.space/background/medium/tt0078346/img"
+              }
+            ],
+            "hideTitle": false,
+            "showAllTab": false,
+            "focusGlowEnabled": true,
+            "pinToTop": false,
+            "viewMode": "FOLLOW_HOME"
+          }
+        }
+      }
+    },
+    {
+      "id": "6D240A94-4E72-46CA-81F8-11574D1B0A00",
+      "title": "Film Franchises",
+      "style": "collections_row",
+      "sortOrder": 310,
+      "isEnabled": true,
+      "source": {
+        "group": {
+          "_0": {
+            "title": "Film Franchises",
+            "tileShape": "wide",
+            "contentSources": [
+              {
+                "id": "543FB1D1-45C1-4B65-A495-57FA6C731760",
+                "title": "James Bond",
+                "tileShape": "wide",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "type": "movie",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/",
+                        "catalogId": "franchise-james-bond",
+                        "catalogName": "James Bond"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/007.jpg"
+              },
+              {
+                "id": "3EE149BE-187F-4939-8380-BEB43721A79D",
+                "title": "Alien & Predator",
+                "tileShape": "wide",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "type": "movie",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/",
+                        "catalogId": "franchise-alien-predator",
+                        "catalogName": "Alien & Predator"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/avp.jpg"
+              },
+              {
+                "id": "E598C0C6-04A3-48A2-93C5-17EE619B5C1E",
+                "title": "Pirates of the Caribbean",
+                "tileShape": "wide",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "type": "movie",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/",
+                        "catalogId": "franchise-pirates",
+                        "catalogName": "Pirates of the Caribbean"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/pirates.jpg"
+              },
+              {
+                "id": "C767B9FB-759E-4FE3-B8DF-CEF60F32D811",
+                "title": "Terminator",
+                "tileShape": "wide",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "type": "movie",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/",
+                        "catalogId": "franchise-terminator",
+                        "catalogName": "Terminator"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/Terminator.jpg"
+              },
+              {
+                "id": "38D33FFD-EC9A-484B-8F9F-37C271AD883A",
+                "title": "Mission: Impossible",
+                "tileShape": "wide",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "type": "movie",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/",
+                        "catalogId": "franchise-mission-impossible",
+                        "catalogName": "Mission: Impossible"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/mission-impossible.jpg"
+              },
+              {
+                "id": "F8AD0F3E-E855-4A57-9287-1DB473A40998",
+                "title": "Jurassic Park",
+                "tileShape": "wide",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "type": "movie",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/",
+                        "catalogId": "franchise-jurassic",
+                        "catalogName": "Jurassic Park"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/jurrasic-park.jpg"
+              },
+              {
+                "id": "1CE9B788-8069-423D-B67D-3CCF67B81BDF",
+                "title": "The Matrix",
+                "tileShape": "wide",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "type": "movie",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/",
+                        "catalogId": "franchise-matrix",
+                        "catalogName": "The Matrix"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/matrix.jpg"
+              },
+              {
+                "id": "3DB1B3E2-FEB3-4FE3-B36F-703B51C868EB",
+                "title": "Fast & Furious",
+                "tileShape": "wide",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "type": "movie",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/",
+                        "catalogId": "franchise-fast-furious",
+                        "catalogName": "Fast & Furious"
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://images.metahub.space/background/medium/tt0232500/img"
+              }
+            ],
+            "hideTitle": false,
+            "showAllTab": false,
+            "focusGlowEnabled": true,
+            "pinToTop": false,
+            "viewMode": "FOLLOW_HOME"
+          }
+        }
+      }
+    }
+  ],
+  "addons": [
+    {
+      "version": "0.7.0",
+      "configurable": false,
+      "sortOrder": 0,
+      "name": "Strand Shelves",
+      "configurationRequired": false,
+      "isEnabled": true,
+      "catalogs": [
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "kids-favourites",
+          "type": "series",
+          "name": "Their Favourites"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "kids-cbeebies",
+          "type": "series",
+          "name": "CBeebies Favourites"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "kids-cbbc",
+          "type": "series",
+          "name": "CBBC Favourites"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "kids-top-rated-films",
+          "type": "movie",
+          "name": "Top-Rated Kids Films"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "kids-trending-movies",
+          "type": "movie",
+          "name": "Trending Kids Movies"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "kids-popular-animation",
+          "type": "movie",
+          "name": "Popular Animated Movies"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-christopher-nolan",
+          "type": "movie",
+          "name": "Christopher Nolan"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-ridley-scott",
+          "type": "movie",
+          "name": "Ridley Scott"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-denis-villeneuve",
+          "type": "movie",
+          "name": "Denis Villeneuve"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-alfred-hitchcock",
+          "type": "movie",
+          "name": "Alfred Hitchcock"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-steven-spielberg",
+          "type": "movie",
+          "name": "Steven Spielberg"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-martin-scorsese",
+          "type": "movie",
+          "name": "Martin Scorsese"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-david-fincher",
+          "type": "movie",
+          "name": "David Fincher"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-quentin-tarantino",
+          "type": "movie",
+          "name": "Quentin Tarantino"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-stanley-kubrick",
+          "type": "movie",
+          "name": "Stanley Kubrick"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-james-cameron",
+          "type": "movie",
+          "name": "James Cameron"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-george-miller",
+          "type": "movie",
+          "name": "George Miller"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-peter-jackson",
+          "type": "movie",
+          "name": "Peter Jackson"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-francis-ford-coppola",
+          "type": "movie",
+          "name": "Francis Ford Coppola"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-paul-thomas-anderson",
+          "type": "movie",
+          "name": "Paul Thomas Anderson"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-wes-anderson",
+          "type": "movie",
+          "name": "Wes Anderson"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-jordan-peele",
+          "type": "movie",
+          "name": "Jordan Peele"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-greta-gerwig",
+          "type": "movie",
+          "name": "Greta Gerwig"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-kathryn-bigelow",
+          "type": "movie",
+          "name": "Kathryn Bigelow"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-guillermo-del-toro",
+          "type": "movie",
+          "name": "Guillermo del Toro"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-bong-joon-ho",
+          "type": "movie",
+          "name": "Bong Joon-ho"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-hayao-miyazaki",
+          "type": "movie",
+          "name": "Hayao Miyazaki"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "studio-a24",
+          "type": "movie",
+          "name": "A24"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "studio-pixar",
+          "type": "movie",
+          "name": "Pixar"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "studio-universal-pictures",
+          "type": "movie",
+          "name": "Universal"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "studio-warner-bros-pictures",
+          "type": "movie",
+          "name": "Warner Bros."
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "studio-paramount-pictures",
+          "type": "movie",
+          "name": "Paramount"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "studio-columbia-pictures",
+          "type": "movie",
+          "name": "Columbia"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "studio-searchlight-pictures",
+          "type": "movie",
+          "name": "Searchlight"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "studio-neon",
+          "type": "movie",
+          "name": "Neon"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "studio-lionsgate",
+          "type": "movie",
+          "name": "Lionsgate"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "studio-20th-century-studios",
+          "type": "movie",
+          "name": "20th Century Studios"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "studio-metro-goldwyn-mayer",
+          "type": "movie",
+          "name": "Metro-Goldwyn-Mayer"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "studio-legendary-pictures",
+          "type": "movie",
+          "name": "Legendary"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "service-netflix",
+          "type": "movie",
+          "name": "Netflix"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "service-apple-tv-plus",
+          "type": "movie",
+          "name": "Apple TV+"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "service-amazon-prime-video",
+          "type": "movie",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "service-disney-plus",
+          "type": "movie",
+          "name": "Disney+"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "service-max",
+          "type": "movie",
+          "name": "Max"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "service-paramount-plus",
+          "type": "movie",
+          "name": "Paramount+"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "service-hulu",
+          "type": "movie",
+          "name": "Hulu"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "service-peacock-premium",
+          "type": "movie",
+          "name": "Peacock"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "uk-bbc-tv",
+          "type": "series",
+          "name": "BBC"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "uk-itv-tv",
+          "type": "series",
+          "name": "ITV"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "uk-channel-4-tv",
+          "type": "series",
+          "name": "Channel 4"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "uk-channel-5-tv",
+          "type": "series",
+          "name": "Channel 5"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "uk-dave-tv",
+          "type": "series",
+          "name": "U&D / Dave"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "uk-sky-tv",
+          "type": "series",
+          "name": "Sky"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "uk-classic-sitcoms",
+          "type": "series",
+          "name": "Classic British Sitcoms"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "uk-modern-comedy",
+          "type": "series",
+          "name": "Modern British Comedy"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "uk-panel-shows",
+          "type": "series",
+          "name": "British Panel Shows"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "uk-comedy-tv",
+          "type": "series",
+          "name": "British Comedy TV"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "uk-best-british-cinema",
+          "type": "movie",
+          "name": "Best of British Cinema"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "uk-comedy-films",
+          "type": "movie",
+          "name": "British Comedy Films"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "uk-film4",
+          "type": "movie",
+          "name": "Film4 Productions"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "uk-bbc-film",
+          "type": "movie",
+          "name": "BBC Film"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "uk-working-title",
+          "type": "movie",
+          "name": "Working Title Films"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "uk-sky-cinema-now",
+          "type": "movie",
+          "name": "Now on Sky Cinema"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "uk-sky-cinema-new",
+          "type": "movie",
+          "name": "New on Sky Cinema"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "uk-sky-cinema-popular",
+          "type": "movie",
+          "name": "Popular on Sky Cinema"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "uk-sky-original-films",
+          "type": "movie",
+          "name": "Sky Original Films"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "franchise-marvel",
+          "type": "movie",
+          "name": "Marvel"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "franchise-dc",
+          "type": "movie",
+          "name": "DC Universe"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "franchise-star-wars",
+          "type": "movie",
+          "name": "Star Wars"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "franchise-harry-potter",
+          "type": "movie",
+          "name": "Harry Potter"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "franchise-middle-earth",
+          "type": "movie",
+          "name": "Middle-earth"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "franchise-james-bond",
+          "type": "movie",
+          "name": "James Bond"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "franchise-alien-predator",
+          "type": "movie",
+          "name": "Alien & Predator"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "franchise-pirates",
+          "type": "movie",
+          "name": "Pirates of the Caribbean"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "franchise-terminator",
+          "type": "movie",
+          "name": "Terminator"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "franchise-mission-impossible",
+          "type": "movie",
+          "name": "Mission: Impossible"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "franchise-jurassic",
+          "type": "movie",
+          "name": "Jurassic Park"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "franchise-matrix",
+          "type": "movie",
+          "name": "The Matrix"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "franchise-fast-furious",
+          "type": "movie",
+          "name": "Fast & Furious"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "franchise-spider-man",
+          "type": "movie",
+          "name": "Spider-Man"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "franchise-batman",
+          "type": "movie",
+          "name": "Batman"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "franchise-superman",
+          "type": "movie",
+          "name": "Superman"
+        }
+      ],
+      "baseUrl": "https://1192tom.github.io/strand-shelves/",
+      "id": "com.1192tom.strandshelves",
+      "types": [
+        "movie",
+        "series"
+      ],
+      "description": "Curated movie, TV, kids, UK and franchise catalogues for Strand.",
+      "includeInSearch": true,
+      "resources": [
+        "catalog"
+      ]
+    }
+  ],
+  "version": 1
+}
