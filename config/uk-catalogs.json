@@ -1,0 +1,131 @@
+{
+  "region": "GB",
+  "tv_networks": [
+    {
+      "name": "BBC",
+      "catalog_id": "uk-bbc-tv",
+      "query": [
+        "BBC One",
+        "BBC Two",
+        "BBC Three",
+        "BBC Four"
+      ],
+      "output": "catalog/series/uk-bbc-tv.json"
+    },
+    {
+      "name": "ITV",
+      "catalog_id": "uk-itv-tv",
+      "query": [
+        "ITV1",
+        "ITV2",
+        "ITV3",
+        "ITV4"
+      ],
+      "output": "catalog/series/uk-itv-tv.json"
+    },
+    {
+      "name": "Channel 4",
+      "catalog_id": "uk-channel-4-tv",
+      "query": [
+        "Channel 4",
+        "E4"
+      ],
+      "output": "catalog/series/uk-channel-4-tv.json"
+    },
+    {
+      "name": "Channel 5",
+      "catalog_id": "uk-channel-5-tv",
+      "query": [
+        "Channel 5"
+      ],
+      "output": "catalog/series/uk-channel-5-tv.json"
+    },
+    {
+      "name": "U&D / Dave",
+      "catalog_id": "uk-dave-tv",
+      "query": [
+        "Dave"
+      ],
+      "output": "catalog/series/uk-dave-tv.json"
+    },
+    {
+      "name": "Sky",
+      "catalog_id": "uk-sky-tv",
+      "query": [
+        "Sky One",
+        "Sky Atlantic",
+        "Sky Max"
+      ],
+      "output": "catalog/series/uk-sky-tv.json"
+    }
+  ],
+  "tv_discover": [
+    {
+      "name": "British Comedy TV",
+      "catalog_id": "uk-comedy-tv",
+      "output": "catalog/series/uk-comedy-tv.json",
+      "params": {
+        "with_origin_country": "GB",
+        "with_genres": "35",
+        "sort_by": "vote_average.desc",
+        "vote_count.gte": "100"
+      }
+    }
+  ],
+  "movie_discover": [
+    {
+      "name": "Best of British Cinema",
+      "catalog_id": "uk-best-british-cinema",
+      "output": "catalog/movie/uk-best-british-cinema.json",
+      "params": {
+        "with_origin_country": "GB",
+        "sort_by": "vote_average.desc",
+        "vote_count.gte": "500"
+      }
+    },
+    {
+      "name": "British Comedy Films",
+      "catalog_id": "uk-comedy-films",
+      "output": "catalog/movie/uk-comedy-films.json",
+      "params": {
+        "with_origin_country": "GB",
+        "with_genres": "35",
+        "sort_by": "vote_average.desc",
+        "vote_count.gte": "100"
+      }
+    }
+  ],
+  "movie_companies": [
+    {
+      "name": "Film4 Productions",
+      "catalog_id": "uk-film4",
+      "output": "catalog/movie/uk-film4.json"
+    },
+    {
+      "name": "BBC Film",
+      "catalog_id": "uk-bbc-film",
+      "output": "catalog/movie/uk-bbc-film.json"
+    },
+    {
+      "name": "Working Title Films",
+      "catalog_id": "uk-working-title",
+      "output": "catalog/movie/uk-working-title.json"
+    },
+    {
+      "name": "Sky Original Film",
+      "catalog_id": "uk-sky-original-films",
+      "output": "catalog/movie/uk-sky-original-films.json",
+      "optional": true
+    }
+  ],
+  "sky_cinema": {
+    "provider_aliases": [
+      "Now TV Cinema",
+      "NOW Cinema",
+      "Sky Cinema"
+    ],
+    "now_output": "catalog/movie/uk-sky-cinema-now.json",
+    "new_output": "catalog/movie/uk-sky-cinema-new.json",
+    "popular_output": "catalog/movie/uk-sky-cinema-popular.json"
+  }
+}
