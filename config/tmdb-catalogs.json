@@ -1,49 +1,234 @@
 {
-  "catalogs": [
+  "region": "GB",
+  "directors": [
     {
       "name": "Christopher Nolan",
       "catalog_id": "director-christopher-nolan",
-      "kind": "director",
-      "query": "Christopher Nolan",
       "output": "catalog/movie/director-christopher-nolan.json"
     },
     {
       "name": "Ridley Scott",
       "catalog_id": "director-ridley-scott",
-      "kind": "director",
-      "query": "Ridley Scott",
       "output": "catalog/movie/director-ridley-scott.json"
     },
     {
       "name": "Denis Villeneuve",
       "catalog_id": "director-denis-villeneuve",
-      "kind": "director",
-      "query": "Denis Villeneuve",
       "output": "catalog/movie/director-denis-villeneuve.json"
     },
     {
+      "name": "Alfred Hitchcock",
+      "catalog_id": "director-alfred-hitchcock",
+      "output": "catalog/movie/director-alfred-hitchcock.json"
+    },
+    {
+      "name": "Steven Spielberg",
+      "catalog_id": "director-steven-spielberg",
+      "output": "catalog/movie/director-steven-spielberg.json"
+    },
+    {
+      "name": "Martin Scorsese",
+      "catalog_id": "director-martin-scorsese",
+      "output": "catalog/movie/director-martin-scorsese.json"
+    },
+    {
+      "name": "David Fincher",
+      "catalog_id": "director-david-fincher",
+      "output": "catalog/movie/director-david-fincher.json"
+    },
+    {
+      "name": "Quentin Tarantino",
+      "catalog_id": "director-quentin-tarantino",
+      "output": "catalog/movie/director-quentin-tarantino.json"
+    },
+    {
+      "name": "Stanley Kubrick",
+      "catalog_id": "director-stanley-kubrick",
+      "output": "catalog/movie/director-stanley-kubrick.json"
+    },
+    {
+      "name": "James Cameron",
+      "catalog_id": "director-james-cameron",
+      "output": "catalog/movie/director-james-cameron.json"
+    },
+    {
+      "name": "George Miller",
+      "catalog_id": "director-george-miller",
+      "output": "catalog/movie/director-george-miller.json"
+    },
+    {
+      "name": "Peter Jackson",
+      "catalog_id": "director-peter-jackson",
+      "output": "catalog/movie/director-peter-jackson.json"
+    },
+    {
+      "name": "Francis Ford Coppola",
+      "catalog_id": "director-francis-ford-coppola",
+      "output": "catalog/movie/director-francis-ford-coppola.json"
+    },
+    {
+      "name": "Paul Thomas Anderson",
+      "catalog_id": "director-paul-thomas-anderson",
+      "output": "catalog/movie/director-paul-thomas-anderson.json"
+    },
+    {
+      "name": "Wes Anderson",
+      "catalog_id": "director-wes-anderson",
+      "output": "catalog/movie/director-wes-anderson.json"
+    },
+    {
+      "name": "Jordan Peele",
+      "catalog_id": "director-jordan-peele",
+      "output": "catalog/movie/director-jordan-peele.json"
+    },
+    {
+      "name": "Greta Gerwig",
+      "catalog_id": "director-greta-gerwig",
+      "output": "catalog/movie/director-greta-gerwig.json"
+    },
+    {
+      "name": "Kathryn Bigelow",
+      "catalog_id": "director-kathryn-bigelow",
+      "output": "catalog/movie/director-kathryn-bigelow.json"
+    },
+    {
+      "name": "Guillermo del Toro",
+      "catalog_id": "director-guillermo-del-toro",
+      "output": "catalog/movie/director-guillermo-del-toro.json"
+    },
+    {
+      "name": "Bong Joon-ho",
+      "catalog_id": "director-bong-joon-ho",
+      "output": "catalog/movie/director-bong-joon-ho.json"
+    },
+    {
+      "name": "Hayao Miyazaki",
+      "catalog_id": "director-hayao-miyazaki",
+      "output": "catalog/movie/director-hayao-miyazaki.json"
+    }
+  ],
+  "studios": [
+    {
       "name": "A24",
       "catalog_id": "studio-a24",
-      "kind": "company",
-      "company_id": 41077,
       "output": "catalog/movie/studio-a24.json",
-      "max_items": 300
+      "max_items": 400
     },
     {
       "name": "Pixar",
       "catalog_id": "studio-pixar",
-      "kind": "company",
-      "query": "Pixar",
       "output": "catalog/movie/studio-pixar.json",
-      "max_items": 150
+      "max_items": 400
     },
     {
-      "name": "Studio Ghibli",
-      "catalog_id": "studio-studio-ghibli",
-      "kind": "company",
-      "query": "Studio Ghibli",
-      "output": "catalog/movie/studio-studio-ghibli.json",
-      "max_items": 150
+      "name": "Universal Pictures",
+      "catalog_id": "studio-universal-pictures",
+      "output": "catalog/movie/studio-universal-pictures.json",
+      "max_items": 400
+    },
+    {
+      "name": "Warner Bros. Pictures",
+      "catalog_id": "studio-warner-bros-pictures",
+      "output": "catalog/movie/studio-warner-bros-pictures.json",
+      "max_items": 400
+    },
+    {
+      "name": "Paramount Pictures",
+      "catalog_id": "studio-paramount-pictures",
+      "output": "catalog/movie/studio-paramount-pictures.json",
+      "max_items": 400
+    },
+    {
+      "name": "Columbia Pictures",
+      "catalog_id": "studio-columbia-pictures",
+      "output": "catalog/movie/studio-columbia-pictures.json",
+      "max_items": 400
+    },
+    {
+      "name": "Searchlight Pictures",
+      "catalog_id": "studio-searchlight-pictures",
+      "output": "catalog/movie/studio-searchlight-pictures.json",
+      "max_items": 400
+    },
+    {
+      "name": "Neon",
+      "catalog_id": "studio-neon",
+      "output": "catalog/movie/studio-neon.json",
+      "max_items": 400
+    },
+    {
+      "name": "Lionsgate",
+      "catalog_id": "studio-lionsgate",
+      "output": "catalog/movie/studio-lionsgate.json",
+      "max_items": 400
+    },
+    {
+      "name": "20th Century Studios",
+      "catalog_id": "studio-20th-century-studios",
+      "output": "catalog/movie/studio-20th-century-studios.json",
+      "max_items": 400
+    },
+    {
+      "name": "Metro-Goldwyn-Mayer",
+      "catalog_id": "studio-metro-goldwyn-mayer",
+      "output": "catalog/movie/studio-metro-goldwyn-mayer.json",
+      "max_items": 400
+    },
+    {
+      "name": "Legendary Pictures",
+      "catalog_id": "studio-legendary-pictures",
+      "output": "catalog/movie/studio-legendary-pictures.json",
+      "max_items": 400
+    }
+  ],
+  "providers": [
+    {
+      "name": "Netflix",
+      "catalog_id": "service-netflix",
+      "output": "catalog/movie/service-netflix.json",
+      "max_items": 400
+    },
+    {
+      "name": "Apple TV Plus",
+      "catalog_id": "service-apple-tv-plus",
+      "output": "catalog/movie/service-apple-tv-plus.json",
+      "max_items": 400
+    },
+    {
+      "name": "Amazon Prime Video",
+      "catalog_id": "service-amazon-prime-video",
+      "output": "catalog/movie/service-amazon-prime-video.json",
+      "max_items": 400
+    },
+    {
+      "name": "Disney Plus",
+      "catalog_id": "service-disney-plus",
+      "output": "catalog/movie/service-disney-plus.json",
+      "max_items": 400
+    },
+    {
+      "name": "Max",
+      "catalog_id": "service-max",
+      "output": "catalog/movie/service-max.json",
+      "max_items": 400
+    },
+    {
+      "name": "Paramount Plus",
+      "catalog_id": "service-paramount-plus",
+      "output": "catalog/movie/service-paramount-plus.json",
+      "max_items": 400
+    },
+    {
+      "name": "Hulu",
+      "catalog_id": "service-hulu",
+      "output": "catalog/movie/service-hulu.json",
+      "max_items": 400
+    },
+    {
+      "name": "Peacock Premium",
+      "catalog_id": "service-peacock-premium",
+      "output": "catalog/movie/service-peacock-premium.json",
+      "max_items": 400
     }
   ]
 }
