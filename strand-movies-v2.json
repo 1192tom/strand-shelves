@@ -1,0 +1,1272 @@
+{
+  "shelves": [
+    {
+      "isEnabled": true,
+      "id": "4CA921F0-3AB7-45AC-A190-C78243AE2852",
+      "sortOrder": 110,
+      "title": "Directors",
+      "style": "collections_row",
+      "source": {
+        "group": {
+          "_0": {
+            "hideTitle": false,
+            "tileShape": "poster",
+            "contentSources": [
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "director-christopher-nolan",
+                        "type": "movie",
+                        "catalogName": "Christopher Nolan",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Christopher Nolan",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt1375666/img",
+                "id": "D69FA954-2E3D-404D-8FBB-9EF45E2BEE36"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "director-ridley-scott",
+                        "type": "movie",
+                        "catalogName": "Ridley Scott",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Ridley Scott",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt0083658/img",
+                "id": "7FE8AB23-06E8-4D9C-8671-3540D2AEDAAB"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "director-denis-villeneuve",
+                        "type": "movie",
+                        "catalogName": "Denis Villeneuve",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Denis Villeneuve",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt1160419/img",
+                "id": "73BAFA20-A891-445D-B449-007669F1BB4D"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "director-alfred-hitchcock",
+                        "type": "movie",
+                        "catalogName": "Alfred Hitchcock",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Alfred Hitchcock",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt0054215/img",
+                "id": "0EFCC1D1-9D9C-452F-9726-2D04E76C0A88"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "director-steven-spielberg",
+                        "type": "movie",
+                        "catalogName": "Steven Spielberg",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Steven Spielberg",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt0107290/img",
+                "id": "4E049C49-B14F-469F-85DF-A143EFD11BB6"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "director-martin-scorsese",
+                        "type": "movie",
+                        "catalogName": "Martin Scorsese",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Martin Scorsese",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt0993846/img",
+                "id": "886CA957-3D6B-4DE6-8930-E63E45B3534E"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "director-david-fincher",
+                        "type": "movie",
+                        "catalogName": "David Fincher",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "David Fincher",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt0137523/img",
+                "id": "851348A4-66CB-48B8-A420-520C939105B4"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "director-quentin-tarantino",
+                        "type": "movie",
+                        "catalogName": "Quentin Tarantino",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Quentin Tarantino",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt0110912/img",
+                "id": "80D79AB8-935C-4AE7-80CD-619550DA9FE0"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "director-stanley-kubrick",
+                        "type": "movie",
+                        "catalogName": "Stanley Kubrick",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Stanley Kubrick",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt0062622/img",
+                "id": "E7090D88-6C83-4C61-85F0-22C5CF7D1013"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "director-james-cameron",
+                        "type": "movie",
+                        "catalogName": "James Cameron",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "James Cameron",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt0499549/img",
+                "id": "95EB4041-B530-444C-A28A-3B6AA1DEA895"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "director-george-miller",
+                        "type": "movie",
+                        "catalogName": "George Miller",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "George Miller",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt1392190/img",
+                "id": "C1DF6251-5A34-463E-9C69-1C368DC54806"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "director-peter-jackson",
+                        "type": "movie",
+                        "catalogName": "Peter Jackson",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Peter Jackson",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt0120737/img",
+                "id": "5F23BF4C-32D1-4CF3-A155-91CBAEB2B8AB"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "director-francis-ford-coppola",
+                        "type": "movie",
+                        "catalogName": "Francis Ford Coppola",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Francis Ford Coppola",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt0068646/img",
+                "id": "7ED10064-7699-4D79-BEE5-951BAE60DB0E"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "director-paul-thomas-anderson",
+                        "type": "movie",
+                        "catalogName": "Paul Thomas Anderson",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Paul Thomas Anderson",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt0469494/img",
+                "id": "82555C87-829A-4C52-A831-DFEE6D141933"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "director-wes-anderson",
+                        "type": "movie",
+                        "catalogName": "Wes Anderson",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Wes Anderson",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt2278388/img",
+                "id": "5E7927D0-0D22-4CE5-92AD-5849B7C16D89"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "director-jordan-peele",
+                        "type": "movie",
+                        "catalogName": "Jordan Peele",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Jordan Peele",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt5052448/img",
+                "id": "FDA22368-F905-4EB8-B42D-B8633092FD08"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "director-greta-gerwig",
+                        "type": "movie",
+                        "catalogName": "Greta Gerwig",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Greta Gerwig",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt1517268/img",
+                "id": "1A2B677B-CA09-47A4-B2CF-26880CF4F85F"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "director-kathryn-bigelow",
+                        "type": "movie",
+                        "catalogName": "Kathryn Bigelow",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Kathryn Bigelow",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt0887912/img",
+                "id": "3537DA8F-84CA-4EA1-A130-E70D72D69A0F"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "director-guillermo-del-toro",
+                        "type": "movie",
+                        "catalogName": "Guillermo del Toro",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Guillermo del Toro",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt5580390/img",
+                "id": "4A194EEF-9CFE-4B97-8B14-1F605DB88BA9"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "director-bong-joon-ho",
+                        "type": "movie",
+                        "catalogName": "Bong Joon-ho",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Bong Joon-ho",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt6751668/img",
+                "id": "9391A9ED-5E62-442A-AB0C-93B3D70E095E"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "director-hayao-miyazaki",
+                        "type": "movie",
+                        "catalogName": "Hayao Miyazaki",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Hayao Miyazaki",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt0245429/img",
+                "id": "1F116303-CF19-45C4-90DB-C1C22FD928F5"
+              }
+            ],
+            "title": "Directors"
+          }
+        }
+      }
+    },
+    {
+      "isEnabled": true,
+      "id": "DA6080EF-6E24-4596-A9A4-679D83F92F94",
+      "sortOrder": 120,
+      "title": "Studios",
+      "style": "collections_row",
+      "source": {
+        "group": {
+          "_0": {
+            "hideTitle": false,
+            "tileShape": "poster",
+            "contentSources": [
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "studio-a24",
+                        "type": "movie",
+                        "catalogName": "A24",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "A24",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt6710474/img",
+                "id": "B616098F-748C-4BCC-9C7E-F95947DCBD6B"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "studio-pixar",
+                        "type": "movie",
+                        "catalogName": "Pixar",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Pixar",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt0114709/img",
+                "id": "91667008-D767-462D-9D2D-6A216174CFE4"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "studio-universal-pictures",
+                        "type": "movie",
+                        "catalogName": "Universal",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Universal",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt0107290/img",
+                "id": "3F0E64CD-DBA6-44EF-B736-B37621E389F8"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "studio-warner-bros-pictures",
+                        "type": "movie",
+                        "catalogName": "Warner Bros.",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Warner Bros.",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt0468569/img",
+                "id": "B51E848C-54BE-48E1-8675-2E2304916868"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "studio-paramount-pictures",
+                        "type": "movie",
+                        "catalogName": "Paramount",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Paramount",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt1745960/img",
+                "id": "D89EF8BB-D33D-451D-B259-77053281D178"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "studio-columbia-pictures",
+                        "type": "movie",
+                        "catalogName": "Columbia",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Columbia",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt10872600/img",
+                "id": "94050245-63B9-4821-9AF8-6D22799D52CD"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "studio-searchlight-pictures",
+                        "type": "movie",
+                        "catalogName": "Searchlight",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Searchlight",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt5027774/img",
+                "id": "59FB08DB-CBE1-40FD-8B01-B632841412CA"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "studio-neon",
+                        "type": "movie",
+                        "catalogName": "Neon",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Neon",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt6751668/img",
+                "id": "CF41AC94-E023-4DE9-BDE1-CE4802C73DB5"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "studio-lionsgate",
+                        "type": "movie",
+                        "catalogName": "Lionsgate",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Lionsgate",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt1392170/img",
+                "id": "9F8DBE6D-3DFA-495A-8E24-CE17D4C4161C"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "studio-20th-century-studios",
+                        "type": "movie",
+                        "catalogName": "20th Century Studios",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "20th Century Studios",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt1630029/img",
+                "id": "A66AD1DB-F566-4964-94EC-B136958294E7"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "studio-metro-goldwyn-mayer",
+                        "type": "movie",
+                        "catalogName": "Metro-Goldwyn-Mayer",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Metro-Goldwyn-Mayer",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt2382320/img",
+                "id": "1D2E929A-C28B-4EA5-8345-76230072D1F9"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "studio-legendary-pictures",
+                        "type": "movie",
+                        "catalogName": "Legendary",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Legendary",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt1160419/img",
+                "id": "F2A2CC5B-CCE7-413F-9DCB-BC2C2CBE0837"
+              }
+            ],
+            "title": "Studios"
+          }
+        }
+      }
+    },
+    {
+      "isEnabled": true,
+      "id": "4A001228-BA43-4A8E-A3E3-62278A0C170F",
+      "sortOrder": 130,
+      "title": "Streaming Services",
+      "style": "collections_row",
+      "source": {
+        "group": {
+          "_0": {
+            "hideTitle": false,
+            "tileShape": "poster",
+            "contentSources": [
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "service-netflix",
+                        "type": "movie",
+                        "catalogName": "Netflix",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Netflix",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt2380307/img",
+                "id": "3BD46873-56E8-4EBE-A839-7A05556BF04E"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "service-apple-tv-plus",
+                        "type": "movie",
+                        "catalogName": "Apple TV+",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Apple TV+",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt14230458/img",
+                "id": "32DCF1E3-DA63-41E1-A708-E2493C42CEAE"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "service-amazon-prime-video",
+                        "type": "movie",
+                        "catalogName": "Amazon Prime Video",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Amazon Prime Video",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt1160419/img",
+                "id": "93806E6B-98BE-46EF-9893-3901973A7762"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "service-disney-plus",
+                        "type": "movie",
+                        "catalogName": "Disney+",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Disney+",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt9376612/img",
+                "id": "A1D5FD58-1549-46AF-81C8-B3BC3D94D1F2"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "service-max",
+                        "type": "movie",
+                        "catalogName": "Max",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Max",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt0816692/img",
+                "id": "E0FE024C-D0CC-4AC1-B0CE-ACA647B85343"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "service-paramount-plus",
+                        "type": "movie",
+                        "catalogName": "Paramount+",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Paramount+",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt1745960/img",
+                "id": "8C098D23-A618-4B98-BF81-6A33D3B89524"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "service-hulu",
+                        "type": "movie",
+                        "catalogName": "Hulu",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Hulu",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt14230458/img",
+                "id": "C4ECF92A-6A96-4C2D-9D35-DC2686F00853"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "service-peacock-premium",
+                        "type": "movie",
+                        "catalogName": "Peacock",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Peacock",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt0087332/img",
+                "id": "44230EB4-84D3-4B24-8527-E6D8E1BD0DF1"
+              }
+            ],
+            "title": "Streaming Services"
+          }
+        }
+      }
+    }
+  ],
+  "addons": [
+    {
+      "version": "0.5.0",
+      "configurable": false,
+      "sortOrder": 0,
+      "name": "Strand Shelves",
+      "configurationRequired": false,
+      "isEnabled": true,
+      "catalogs": [
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "kids-favourites",
+          "type": "series",
+          "name": "Their Favourites"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "kids-cbeebies",
+          "type": "series",
+          "name": "CBeebies Favourites"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "kids-cbbc",
+          "type": "series",
+          "name": "CBBC Favourites"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "kids-top-rated-films",
+          "type": "movie",
+          "name": "Top-Rated Kids Films"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "kids-trending-movies",
+          "type": "movie",
+          "name": "Trending Kids Movies"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "kids-popular-animation",
+          "type": "movie",
+          "name": "Popular Animated Movies"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-christopher-nolan",
+          "type": "movie",
+          "name": "Christopher Nolan"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-ridley-scott",
+          "type": "movie",
+          "name": "Ridley Scott"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-denis-villeneuve",
+          "type": "movie",
+          "name": "Denis Villeneuve"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-alfred-hitchcock",
+          "type": "movie",
+          "name": "Alfred Hitchcock"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-steven-spielberg",
+          "type": "movie",
+          "name": "Steven Spielberg"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-martin-scorsese",
+          "type": "movie",
+          "name": "Martin Scorsese"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-david-fincher",
+          "type": "movie",
+          "name": "David Fincher"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-quentin-tarantino",
+          "type": "movie",
+          "name": "Quentin Tarantino"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-stanley-kubrick",
+          "type": "movie",
+          "name": "Stanley Kubrick"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-james-cameron",
+          "type": "movie",
+          "name": "James Cameron"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-george-miller",
+          "type": "movie",
+          "name": "George Miller"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-peter-jackson",
+          "type": "movie",
+          "name": "Peter Jackson"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-francis-ford-coppola",
+          "type": "movie",
+          "name": "Francis Ford Coppola"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-paul-thomas-anderson",
+          "type": "movie",
+          "name": "Paul Thomas Anderson"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-wes-anderson",
+          "type": "movie",
+          "name": "Wes Anderson"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-jordan-peele",
+          "type": "movie",
+          "name": "Jordan Peele"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-greta-gerwig",
+          "type": "movie",
+          "name": "Greta Gerwig"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-kathryn-bigelow",
+          "type": "movie",
+          "name": "Kathryn Bigelow"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-guillermo-del-toro",
+          "type": "movie",
+          "name": "Guillermo del Toro"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-bong-joon-ho",
+          "type": "movie",
+          "name": "Bong Joon-ho"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-hayao-miyazaki",
+          "type": "movie",
+          "name": "Hayao Miyazaki"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "studio-a24",
+          "type": "movie",
+          "name": "A24"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "studio-pixar",
+          "type": "movie",
+          "name": "Pixar"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "studio-universal-pictures",
+          "type": "movie",
+          "name": "Universal"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "studio-warner-bros-pictures",
+          "type": "movie",
+          "name": "Warner Bros."
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "studio-paramount-pictures",
+          "type": "movie",
+          "name": "Paramount"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "studio-columbia-pictures",
+          "type": "movie",
+          "name": "Columbia"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "studio-searchlight-pictures",
+          "type": "movie",
+          "name": "Searchlight"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "studio-neon",
+          "type": "movie",
+          "name": "Neon"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "studio-lionsgate",
+          "type": "movie",
+          "name": "Lionsgate"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "studio-20th-century-studios",
+          "type": "movie",
+          "name": "20th Century Studios"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "studio-metro-goldwyn-mayer",
+          "type": "movie",
+          "name": "Metro-Goldwyn-Mayer"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "studio-legendary-pictures",
+          "type": "movie",
+          "name": "Legendary"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "service-netflix",
+          "type": "movie",
+          "name": "Netflix"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "service-apple-tv-plus",
+          "type": "movie",
+          "name": "Apple TV+"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "service-amazon-prime-video",
+          "type": "movie",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "service-disney-plus",
+          "type": "movie",
+          "name": "Disney+"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "service-max",
+          "type": "movie",
+          "name": "Max"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "service-paramount-plus",
+          "type": "movie",
+          "name": "Paramount+"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "service-hulu",
+          "type": "movie",
+          "name": "Hulu"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "service-peacock-premium",
+          "type": "movie",
+          "name": "Peacock"
+        }
+      ],
+      "baseUrl": "https://1192tom.github.io/strand-shelves/",
+      "id": "com.1192tom.strandshelves",
+      "types": [
+        "movie",
+        "series"
+      ],
+      "description": "Curated movie, TV and kids catalogues for Strand.",
+      "includeInSearch": true,
+      "resources": [
+        "catalog"
+      ]
+    }
+  ],
+  "version": 1
+}

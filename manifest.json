@@ -1,6 +1,6 @@
 {
   "id": "com.1192tom.strandshelves",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "name": "Strand Shelves",
   "description": "Curated movie, TV and kids catalogues for Strand.",
   "resources": [
@@ -58,6 +58,96 @@
     },
     {
       "type": "movie",
+      "id": "director-alfred-hitchcock",
+      "name": "Alfred Hitchcock"
+    },
+    {
+      "type": "movie",
+      "id": "director-steven-spielberg",
+      "name": "Steven Spielberg"
+    },
+    {
+      "type": "movie",
+      "id": "director-martin-scorsese",
+      "name": "Martin Scorsese"
+    },
+    {
+      "type": "movie",
+      "id": "director-david-fincher",
+      "name": "David Fincher"
+    },
+    {
+      "type": "movie",
+      "id": "director-quentin-tarantino",
+      "name": "Quentin Tarantino"
+    },
+    {
+      "type": "movie",
+      "id": "director-stanley-kubrick",
+      "name": "Stanley Kubrick"
+    },
+    {
+      "type": "movie",
+      "id": "director-james-cameron",
+      "name": "James Cameron"
+    },
+    {
+      "type": "movie",
+      "id": "director-george-miller",
+      "name": "George Miller"
+    },
+    {
+      "type": "movie",
+      "id": "director-peter-jackson",
+      "name": "Peter Jackson"
+    },
+    {
+      "type": "movie",
+      "id": "director-francis-ford-coppola",
+      "name": "Francis Ford Coppola"
+    },
+    {
+      "type": "movie",
+      "id": "director-paul-thomas-anderson",
+      "name": "Paul Thomas Anderson"
+    },
+    {
+      "type": "movie",
+      "id": "director-wes-anderson",
+      "name": "Wes Anderson"
+    },
+    {
+      "type": "movie",
+      "id": "director-jordan-peele",
+      "name": "Jordan Peele"
+    },
+    {
+      "type": "movie",
+      "id": "director-greta-gerwig",
+      "name": "Greta Gerwig"
+    },
+    {
+      "type": "movie",
+      "id": "director-kathryn-bigelow",
+      "name": "Kathryn Bigelow"
+    },
+    {
+      "type": "movie",
+      "id": "director-guillermo-del-toro",
+      "name": "Guillermo del Toro"
+    },
+    {
+      "type": "movie",
+      "id": "director-bong-joon-ho",
+      "name": "Bong Joon-ho"
+    },
+    {
+      "type": "movie",
+      "id": "director-hayao-miyazaki",
+      "name": "Hayao Miyazaki"
+    },
+    {
+      "type": "movie",
       "id": "studio-a24",
       "name": "A24"
     },
@@ -68,8 +158,93 @@
     },
     {
       "type": "movie",
-      "id": "studio-studio-ghibli",
-      "name": "Studio Ghibli"
+      "id": "studio-universal-pictures",
+      "name": "Universal"
+    },
+    {
+      "type": "movie",
+      "id": "studio-warner-bros-pictures",
+      "name": "Warner Bros."
+    },
+    {
+      "type": "movie",
+      "id": "studio-paramount-pictures",
+      "name": "Paramount"
+    },
+    {
+      "type": "movie",
+      "id": "studio-columbia-pictures",
+      "name": "Columbia"
+    },
+    {
+      "type": "movie",
+      "id": "studio-searchlight-pictures",
+      "name": "Searchlight"
+    },
+    {
+      "type": "movie",
+      "id": "studio-neon",
+      "name": "Neon"
+    },
+    {
+      "type": "movie",
+      "id": "studio-lionsgate",
+      "name": "Lionsgate"
+    },
+    {
+      "type": "movie",
+      "id": "studio-20th-century-studios",
+      "name": "20th Century Studios"
+    },
+    {
+      "type": "movie",
+      "id": "studio-metro-goldwyn-mayer",
+      "name": "Metro-Goldwyn-Mayer"
+    },
+    {
+      "type": "movie",
+      "id": "studio-legendary-pictures",
+      "name": "Legendary"
+    },
+    {
+      "type": "movie",
+      "id": "service-netflix",
+      "name": "Netflix"
+    },
+    {
+      "type": "movie",
+      "id": "service-apple-tv-plus",
+      "name": "Apple TV+"
+    },
+    {
+      "type": "movie",
+      "id": "service-amazon-prime-video",
+      "name": "Amazon Prime Video"
+    },
+    {
+      "type": "movie",
+      "id": "service-disney-plus",
+      "name": "Disney+"
+    },
+    {
+      "type": "movie",
+      "id": "service-max",
+      "name": "Max"
+    },
+    {
+      "type": "movie",
+      "id": "service-paramount-plus",
+      "name": "Paramount+"
+    },
+    {
+      "type": "movie",
+      "id": "service-hulu",
+      "name": "Hulu"
+    },
+    {
+      "type": "movie",
+      "id": "service-peacock-premium",
+      "name": "Peacock"
     }
   ],
   "behaviorHints": {
