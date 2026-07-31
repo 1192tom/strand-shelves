@@ -1,1 +1,64 @@
-{"metas": []}
+{
+  "metas": [
+    {
+      "id": "tmdb:49521",
+      "type": "movie",
+      "name": "Man of Steel",
+      "poster": "https://image.tmdb.org/t/p/w500/8GFtkImmK0K1VaUChR0n9O61CFU.jpg"
+    },
+    {
+      "id": "tmdb:209112",
+      "type": "movie",
+      "name": "Batman v Superman: Dawn of Justice",
+      "poster": "https://image.tmdb.org/t/p/w500/5UsK3grJvtQrtzEgqNlDljJW96w.jpg"
+    },
+    {
+      "id": "tmdb:297761",
+      "type": "movie",
+      "name": "Suicide Squad",
+      "poster": "https://image.tmdb.org/t/p/w500/sk3FZgh3sRrmr8vyhaitNobMcfh.jpg"
+    },
+    {
+      "id": "tmdb:297762",
+      "type": "movie",
+      "name": "Wonder Woman",
+      "poster": "https://image.tmdb.org/t/p/w500/v4ncgZjG2Zu8ZW5al1vIZTsSjqX.jpg"
+    },
+    {
+      "id": "tmdb:297802",
+      "type": "movie",
+      "name": "Aquaman",
+      "poster": "https://image.tmdb.org/t/p/w500/ufl63EFcc5XpByEV2Ecdw6WJZAI.jpg"
+    },
+    {
+      "id": "tmdb:287947",
+      "type": "movie",
+      "name": "Shazam!",
+      "poster": "https://image.tmdb.org/t/p/w500/xnopI5Xtky18MPhK40cZAGAOVeV.jpg"
+    },
+    {
+      "id": "tmdb:464052",
+      "type": "movie",
+      "name": "Wonder Woman 1984",
+      "poster": "https://image.tmdb.org/t/p/w500/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg"
+    },
+    {
+      "id": "tmdb:436969",
+      "type": "movie",
+      "name": "The Suicide Squad",
+      "poster": "https://image.tmdb.org/t/p/w500/q61qEyssk2ku3okWICKArlAdhBn.jpg"
+    },
+    {
+      "id": "tmdb:594767",
+      "type": "movie",
+      "name": "Shazam! Fury of the Gods",
+      "poster": "https://image.tmdb.org/t/p/w500/3GrRgt6CiLIUXUtoktcv1g2iwT5.jpg"
+    },
+    {
+      "id": "tmdb:572802",
+      "type": "movie",
+      "name": "Aquaman and the Lost Kingdom",
+      "poster": "https://image.tmdb.org/t/p/w500/7lTnXOy0iNtBAdRP3TZvaKJ77F6.jpg"
+    }
+  ]
+}

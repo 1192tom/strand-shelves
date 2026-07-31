@@ -1,1 +1,34 @@
-{"metas": []}
+{
+  "metas": [
+    {
+      "id": "tmdb:22",
+      "type": "movie",
+      "name": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "poster": "https://image.tmdb.org/t/p/w500/poHwCZeWzJCShH7tOjg8RIoyjcw.jpg"
+    },
+    {
+      "id": "tmdb:58",
+      "type": "movie",
+      "name": "Pirates of the Caribbean: Dead Man's Chest",
+      "poster": "https://image.tmdb.org/t/p/w500/uXEqmloGyP7UXAiphJUu2v2pcuE.jpg"
+    },
+    {
+      "id": "tmdb:285",
+      "type": "movie",
+      "name": "Pirates of the Caribbean: At World's End",
+      "poster": "https://image.tmdb.org/t/p/w500/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg"
+    },
+    {
+      "id": "tmdb:1865",
+      "type": "movie",
+      "name": "Pirates of the Caribbean: On Stranger Tides",
+      "poster": "https://image.tmdb.org/t/p/w500/keGfSvCmYj7CvdRx36OdVrAEibE.jpg"
+    },
+    {
+      "id": "tmdb:166426",
+      "type": "movie",
+      "name": "Pirates of the Caribbean: Dead Men Tell No Tales",
+      "poster": "https://image.tmdb.org/t/p/w500/6lAPOAFYFWIO3SQRemEY2wInQMC.jpg"
+    }
+  ]
+}

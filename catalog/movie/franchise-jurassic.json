@@ -1,1 +1,64 @@
-{"metas": []}
+{
+  "metas": [
+    {
+      "id": "tmdb:329",
+      "type": "movie",
+      "name": "Jurassic Park",
+      "poster": "https://image.tmdb.org/t/p/w500/b1xCNnyrPebIc7EWNZIa6jhb1Ww.jpg"
+    },
+    {
+      "id": "tmdb:330",
+      "type": "movie",
+      "name": "The Lost World: Jurassic Park",
+      "poster": "https://image.tmdb.org/t/p/w500/ss6cqHQc72eCsXrvne11XVZs3bR.jpg"
+    },
+    {
+      "id": "tmdb:331",
+      "type": "movie",
+      "name": "Jurassic Park III",
+      "poster": "https://image.tmdb.org/t/p/w500/oQXj4NUfS3r3gHXtDOzcJgj1lLc.jpg"
+    },
+    {
+      "id": "tmdb:135397",
+      "type": "movie",
+      "name": "Jurassic World",
+      "poster": "https://image.tmdb.org/t/p/w500/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg"
+    },
+    {
+      "id": "tmdb:419566",
+      "type": "movie",
+      "name": "LEGO Jurassic World: The Indominus Escape",
+      "poster": "https://image.tmdb.org/t/p/w500/eEUvzBGu2xeO6jwmbMFZa6gZLu7.jpg"
+    },
+    {
+      "id": "tmdb:351286",
+      "type": "movie",
+      "name": "Jurassic World: Fallen Kingdom",
+      "poster": "https://image.tmdb.org/t/p/w500/x2Us3jR6ToMJjbcPbLimYoxf6xr.jpg"
+    },
+    {
+      "id": "tmdb:1187493",
+      "type": "movie",
+      "name": "LEGO Jurassic World: Rescue Blue",
+      "poster": "https://image.tmdb.org/t/p/w500/gziUq6unuQrXUsIpgcI6gCf5jf4.jpg"
+    },
+    {
+      "id": "tmdb:584088",
+      "type": "movie",
+      "name": "LEGO Jurassic World: Escape the Indoraptor",
+      "poster": "https://image.tmdb.org/t/p/w500/ivTJwuR3GRlGsKq698pObcOWq7P.jpg"
+    },
+    {
+      "id": "tmdb:507086",
+      "type": "movie",
+      "name": "Jurassic World Dominion",
+      "poster": "https://image.tmdb.org/t/p/w500/jbAvCACjLf1ZG0unB2tdmx5HAf1.jpg"
+    },
+    {
+      "id": "tmdb:1234821",
+      "type": "movie",
+      "name": "Jurassic World Rebirth",
+      "poster": "https://image.tmdb.org/t/p/w500/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg"
+    }
+  ]
+}
