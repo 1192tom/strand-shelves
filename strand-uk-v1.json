@@ -1,0 +1,961 @@
+{
+  "shelves": [
+    {
+      "isEnabled": true,
+      "id": "B85EE7C9-40E3-4FB3-BA49-30601683A113",
+      "sortOrder": 200,
+      "title": "UK Broadcasters",
+      "style": "collections_row",
+      "source": {
+        "group": {
+          "_0": {
+            "hideTitle": false,
+            "tileShape": "poster",
+            "contentSources": [
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "uk-bbc-tv",
+                        "type": "series",
+                        "catalogName": "BBC",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "BBC",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt5687612/img",
+                "id": "F0692029-7CAD-418D-BB70-8042E8A3FCD6"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "uk-itv-tv",
+                        "type": "series",
+                        "catalogName": "ITV",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "ITV",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt2442560/img",
+                "id": "DC86B4C4-A274-49D7-A7BF-374686142975"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "uk-channel-4-tv",
+                        "type": "series",
+                        "catalogName": "Channel 4",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Channel 4",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt0387764/img",
+                "id": "6D59098A-6EA1-475E-B2EA-E63EC8F383AD"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "uk-channel-5-tv",
+                        "type": "series",
+                        "catalogName": "Channel 5",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Channel 5",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt1475582/img",
+                "id": "6BA12F1D-D684-4F9B-A318-A0C3072278EC"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "uk-dave-tv",
+                        "type": "series",
+                        "catalogName": "U&D / Dave",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "U&D / Dave",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt4934214/img",
+                "id": "A39255A2-78EF-43D8-B108-B2F84298FFBC"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "uk-sky-tv",
+                        "type": "series",
+                        "catalogName": "Sky",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Sky",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt3581920/img",
+                "id": "640142B7-ADCF-40A8-8D04-D7A4606DB08F"
+              }
+            ],
+            "title": "UK Broadcasters"
+          }
+        }
+      }
+    },
+    {
+      "isEnabled": true,
+      "id": "5B9A79EE-E8B5-4F07-89F6-4EEFCEB98A20",
+      "sortOrder": 210,
+      "title": "British Comedy",
+      "style": "collections_row",
+      "source": {
+        "group": {
+          "_0": {
+            "hideTitle": false,
+            "tileShape": "poster",
+            "contentSources": [
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "uk-classic-sitcoms",
+                        "type": "series",
+                        "catalogName": "Classic British Sitcoms",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Classic British Sitcoms",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt0081912/img",
+                "id": "59D88726-E140-4DD2-A668-1671D35BF0C8"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "uk-modern-comedy",
+                        "type": "series",
+                        "catalogName": "Modern British Comedy",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Modern British Comedy",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt0387764/img",
+                "id": "5C5671A7-17AF-42AB-A050-0B40B1243067"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "uk-panel-shows",
+                        "type": "series",
+                        "catalogName": "British Panel Shows",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "British Panel Shows",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt4934214/img",
+                "id": "ECF3502C-7592-4963-9023-E2A4444163DC"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "uk-comedy-tv",
+                        "type": "series",
+                        "catalogName": "British Comedy TV",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "British Comedy TV",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt5687612/img",
+                "id": "BBC3886E-5C8E-454D-A9A5-876A952B41D7"
+              }
+            ],
+            "title": "British Comedy"
+          }
+        }
+      }
+    },
+    {
+      "isEnabled": true,
+      "id": "A93A423E-5246-4662-97FA-2D1C5B792E18",
+      "sortOrder": 220,
+      "title": "UK Movies",
+      "style": "collections_row",
+      "source": {
+        "group": {
+          "_0": {
+            "hideTitle": false,
+            "tileShape": "poster",
+            "contentSources": [
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "uk-best-british-cinema",
+                        "type": "movie",
+                        "catalogName": "Best of British Cinema",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Best of British Cinema",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt0114814/img",
+                "id": "16CC28F6-6740-4C29-A40D-F7135CABAB8B"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "uk-comedy-films",
+                        "type": "movie",
+                        "catalogName": "British Comedy Films",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "British Comedy Films",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt0109831/img",
+                "id": "D51C499B-7827-4EE9-943B-44E14288FCA0"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "uk-film4",
+                        "type": "movie",
+                        "catalogName": "Film4 Productions",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Film4 Productions",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt1542344/img",
+                "id": "9B043CD6-7F1E-4987-BB7F-9582AF2C1E26"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "uk-bbc-film",
+                        "type": "movie",
+                        "catalogName": "BBC Film",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "BBC Film",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt4468740/img",
+                "id": "B91689EC-F5F5-4F7B-9118-E0B9DD048DE4"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "uk-working-title",
+                        "type": "movie",
+                        "catalogName": "Working Title Films",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Working Title Films",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt0109831/img",
+                "id": "47BDE41A-6348-44AE-A5BF-F8FC04B1FFDD"
+              }
+            ],
+            "title": "UK Movies"
+          }
+        }
+      }
+    },
+    {
+      "isEnabled": true,
+      "id": "FA0156CA-579F-4503-A750-37217064A1F0",
+      "sortOrder": 230,
+      "title": "Sky Cinema",
+      "style": "collections_row",
+      "source": {
+        "group": {
+          "_0": {
+            "hideTitle": false,
+            "tileShape": "poster",
+            "contentSources": [
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "uk-sky-cinema-now",
+                        "type": "movie",
+                        "catalogName": "Now on Sky Cinema",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Now on Sky Cinema",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt1630029/img",
+                "id": "0080BA6C-1607-497F-BB88-06C01539CB40"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "uk-sky-cinema-new",
+                        "type": "movie",
+                        "catalogName": "New on Sky Cinema",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "New on Sky Cinema",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt1745960/img",
+                "id": "35D68740-E5D9-431F-B3A2-182C87C93570"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "uk-sky-cinema-popular",
+                        "type": "movie",
+                        "catalogName": "Popular on Sky Cinema",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Popular on Sky Cinema",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt0468569/img",
+                "id": "A6D514EB-B650-4790-A1C7-790A3661886E"
+              },
+              {
+                "tileShape": "poster",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "catalogId": "uk-sky-original-films",
+                        "type": "movie",
+                        "catalogName": "Sky Original Films",
+                        "addonId": "com.1192tom.strandshelves",
+                        "addonName": "Strand Shelves",
+                        "baseUrl": "https://1192tom.github.io/strand-shelves/"
+                      }
+                    }
+                  }
+                ],
+                "title": "Sky Original Films",
+                "coverImageURL": "https://images.metahub.space/poster/medium/tt14230458/img",
+                "id": "83FE018C-CF39-4BB2-8A4A-08EB6093AF42"
+              }
+            ],
+            "title": "Sky Cinema"
+          }
+        }
+      }
+    }
+  ],
+  "addons": [
+    {
+      "version": "0.6.0",
+      "configurable": false,
+      "sortOrder": 0,
+      "name": "Strand Shelves",
+      "configurationRequired": false,
+      "isEnabled": true,
+      "catalogs": [
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "kids-favourites",
+          "type": "series",
+          "name": "Their Favourites"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "kids-cbeebies",
+          "type": "series",
+          "name": "CBeebies Favourites"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "kids-cbbc",
+          "type": "series",
+          "name": "CBBC Favourites"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "kids-top-rated-films",
+          "type": "movie",
+          "name": "Top-Rated Kids Films"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "kids-trending-movies",
+          "type": "movie",
+          "name": "Trending Kids Movies"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "kids-popular-animation",
+          "type": "movie",
+          "name": "Popular Animated Movies"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-christopher-nolan",
+          "type": "movie",
+          "name": "Christopher Nolan"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-ridley-scott",
+          "type": "movie",
+          "name": "Ridley Scott"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-denis-villeneuve",
+          "type": "movie",
+          "name": "Denis Villeneuve"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-alfred-hitchcock",
+          "type": "movie",
+          "name": "Alfred Hitchcock"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-steven-spielberg",
+          "type": "movie",
+          "name": "Steven Spielberg"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-martin-scorsese",
+          "type": "movie",
+          "name": "Martin Scorsese"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-david-fincher",
+          "type": "movie",
+          "name": "David Fincher"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-quentin-tarantino",
+          "type": "movie",
+          "name": "Quentin Tarantino"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-stanley-kubrick",
+          "type": "movie",
+          "name": "Stanley Kubrick"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-james-cameron",
+          "type": "movie",
+          "name": "James Cameron"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-george-miller",
+          "type": "movie",
+          "name": "George Miller"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-peter-jackson",
+          "type": "movie",
+          "name": "Peter Jackson"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-francis-ford-coppola",
+          "type": "movie",
+          "name": "Francis Ford Coppola"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-paul-thomas-anderson",
+          "type": "movie",
+          "name": "Paul Thomas Anderson"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-wes-anderson",
+          "type": "movie",
+          "name": "Wes Anderson"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-jordan-peele",
+          "type": "movie",
+          "name": "Jordan Peele"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-greta-gerwig",
+          "type": "movie",
+          "name": "Greta Gerwig"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-kathryn-bigelow",
+          "type": "movie",
+          "name": "Kathryn Bigelow"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-guillermo-del-toro",
+          "type": "movie",
+          "name": "Guillermo del Toro"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-bong-joon-ho",
+          "type": "movie",
+          "name": "Bong Joon-ho"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "director-hayao-miyazaki",
+          "type": "movie",
+          "name": "Hayao Miyazaki"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "studio-a24",
+          "type": "movie",
+          "name": "A24"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "studio-pixar",
+          "type": "movie",
+          "name": "Pixar"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "studio-universal-pictures",
+          "type": "movie",
+          "name": "Universal"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "studio-warner-bros-pictures",
+          "type": "movie",
+          "name": "Warner Bros."
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "studio-paramount-pictures",
+          "type": "movie",
+          "name": "Paramount"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "studio-columbia-pictures",
+          "type": "movie",
+          "name": "Columbia"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "studio-searchlight-pictures",
+          "type": "movie",
+          "name": "Searchlight"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "studio-neon",
+          "type": "movie",
+          "name": "Neon"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "studio-lionsgate",
+          "type": "movie",
+          "name": "Lionsgate"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "studio-20th-century-studios",
+          "type": "movie",
+          "name": "20th Century Studios"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "studio-metro-goldwyn-mayer",
+          "type": "movie",
+          "name": "Metro-Goldwyn-Mayer"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "studio-legendary-pictures",
+          "type": "movie",
+          "name": "Legendary"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "service-netflix",
+          "type": "movie",
+          "name": "Netflix"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "service-apple-tv-plus",
+          "type": "movie",
+          "name": "Apple TV+"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "service-amazon-prime-video",
+          "type": "movie",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "service-disney-plus",
+          "type": "movie",
+          "name": "Disney+"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "service-max",
+          "type": "movie",
+          "name": "Max"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "service-paramount-plus",
+          "type": "movie",
+          "name": "Paramount+"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "service-hulu",
+          "type": "movie",
+          "name": "Hulu"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "service-peacock-premium",
+          "type": "movie",
+          "name": "Peacock"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "uk-bbc-tv",
+          "type": "series",
+          "name": "BBC"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "uk-itv-tv",
+          "type": "series",
+          "name": "ITV"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "uk-channel-4-tv",
+          "type": "series",
+          "name": "Channel 4"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "uk-channel-5-tv",
+          "type": "series",
+          "name": "Channel 5"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "uk-dave-tv",
+          "type": "series",
+          "name": "U&D / Dave"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "uk-sky-tv",
+          "type": "series",
+          "name": "Sky"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "uk-classic-sitcoms",
+          "type": "series",
+          "name": "Classic British Sitcoms"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "uk-modern-comedy",
+          "type": "series",
+          "name": "Modern British Comedy"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "uk-panel-shows",
+          "type": "series",
+          "name": "British Panel Shows"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "uk-comedy-tv",
+          "type": "series",
+          "name": "British Comedy TV"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "uk-best-british-cinema",
+          "type": "movie",
+          "name": "Best of British Cinema"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "uk-comedy-films",
+          "type": "movie",
+          "name": "British Comedy Films"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "uk-film4",
+          "type": "movie",
+          "name": "Film4 Productions"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "uk-bbc-film",
+          "type": "movie",
+          "name": "BBC Film"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "uk-working-title",
+          "type": "movie",
+          "name": "Working Title Films"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "uk-sky-cinema-now",
+          "type": "movie",
+          "name": "Now on Sky Cinema"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "uk-sky-cinema-new",
+          "type": "movie",
+          "name": "New on Sky Cinema"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "uk-sky-cinema-popular",
+          "type": "movie",
+          "name": "Popular on Sky Cinema"
+        },
+        {
+          "isSearchCatalog": false,
+          "supportsSearch": false,
+          "catalogId": "uk-sky-original-films",
+          "type": "movie",
+          "name": "Sky Original Films"
+        }
+      ],
+      "baseUrl": "https://1192tom.github.io/strand-shelves/",
+      "id": "com.1192tom.strandshelves",
+      "types": [
+        "movie",
+        "series"
+      ],
+      "description": "Curated movie, TV, kids and UK catalogues for Strand.",
+      "includeInSearch": true,
+      "resources": [
+        "catalog"
+      ]
+    }
+  ],
+  "version": 1
+}

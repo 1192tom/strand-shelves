@@ -1,8 +1,8 @@
 {
   "id": "com.1192tom.strandshelves",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "name": "Strand Shelves",
-  "description": "Curated movie, TV and kids catalogues for Strand.",
+  "description": "Curated movie, TV, kids and UK catalogues for Strand.",
   "resources": [
     "catalog"
   ],
@@ -245,6 +245,101 @@
       "type": "movie",
       "id": "service-peacock-premium",
       "name": "Peacock"
+    },
+    {
+      "type": "series",
+      "id": "uk-bbc-tv",
+      "name": "BBC"
+    },
+    {
+      "type": "series",
+      "id": "uk-itv-tv",
+      "name": "ITV"
+    },
+    {
+      "type": "series",
+      "id": "uk-channel-4-tv",
+      "name": "Channel 4"
+    },
+    {
+      "type": "series",
+      "id": "uk-channel-5-tv",
+      "name": "Channel 5"
+    },
+    {
+      "type": "series",
+      "id": "uk-dave-tv",
+      "name": "U&D / Dave"
+    },
+    {
+      "type": "series",
+      "id": "uk-sky-tv",
+      "name": "Sky"
+    },
+    {
+      "type": "series",
+      "id": "uk-classic-sitcoms",
+      "name": "Classic British Sitcoms"
+    },
+    {
+      "type": "series",
+      "id": "uk-modern-comedy",
+      "name": "Modern British Comedy"
+    },
+    {
+      "type": "series",
+      "id": "uk-panel-shows",
+      "name": "British Panel Shows"
+    },
+    {
+      "type": "series",
+      "id": "uk-comedy-tv",
+      "name": "British Comedy TV"
+    },
+    {
+      "type": "movie",
+      "id": "uk-best-british-cinema",
+      "name": "Best of British Cinema"
+    },
+    {
+      "type": "movie",
+      "id": "uk-comedy-films",
+      "name": "British Comedy Films"
+    },
+    {
+      "type": "movie",
+      "id": "uk-film4",
+      "name": "Film4 Productions"
+    },
+    {
+      "type": "movie",
+      "id": "uk-bbc-film",
+      "name": "BBC Film"
+    },
+    {
+      "type": "movie",
+      "id": "uk-working-title",
+      "name": "Working Title Films"
+    },
+    {
+      "type": "movie",
+      "id": "uk-sky-cinema-now",
+      "name": "Now on Sky Cinema"
+    },
+    {
+      "type": "movie",
+      "id": "uk-sky-cinema-new",
+      "name": "New on Sky Cinema"
+    },
+    {
+      "type": "movie",
+      "id": "uk-sky-cinema-popular",
+      "name": "Popular on Sky Cinema"
+    },
+    {
+      "type": "movie",
+      "id": "uk-sky-original-films",
+      "name": "Sky Original Films"
     }
   ],
   "behaviorHints": {
