@@ -1,0 +1,45 @@
+[
+  {
+    "id": "70C0882B-018E-4A62-B938-207024BF925E",
+    "title": "Harry Potter Test",
+    "style": "collections_row",
+    "sortOrder": 0,
+    "source": {
+      "group": {
+        "_0": {
+          "title": "Harry Potter Test",
+          "tileShape": "wide",
+          "contentSources": [
+            {
+              "id": "C5EC7815-1FF4-4C03-9C2E-803CAC73DFFC",
+              "title": "Harry Potter",
+              "tileShape": "wide",
+              "hideTitle": true,
+              "sources": [
+                {
+                  "addonCatalog": {
+                    "_0": {
+                      "addonId": "aio-metadata",
+                      "addonName": "AIOMetadata",
+                      "type": "movie",
+                      "baseUrl": "https://aiometadata.elfhosted.com/stremio/95804fa3-e0bd-4621-bf1f-44d196e98222",
+                      "catalogId": "mdblist.102972",
+                      "catalogName": "Harry Potter Collection"
+                    }
+                  }
+                }
+              ],
+              "coverImageURL": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/Harry-Potter.jpg"
+            }
+          ],
+          "hideTitle": false,
+          "showAllTab": false,
+          "focusGlowEnabled": true,
+          "pinToTop": false,
+          "viewMode": "FOLLOW_HOME"
+        }
+      }
+    },
+    "isEnabled": true
+  }
+]
