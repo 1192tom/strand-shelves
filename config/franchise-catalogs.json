@@ -1,0 +1,155 @@
+{
+  "franchises": [
+    {
+      "name": "Marvel",
+      "catalog_id": "franchise-marvel",
+      "collections": [
+        "Iron Man Collection",
+        "Thor Collection",
+        "Captain America Collection",
+        "Avengers Collection",
+        "Guardians of the Galaxy Collection",
+        "Ant-Man Collection",
+        "Doctor Strange Collection",
+        "Black Panther Collection",
+        "Captain Marvel Collection"
+      ],
+      "output": "catalog/movie/franchise-marvel.json"
+    },
+    {
+      "name": "DC Universe",
+      "catalog_id": "franchise-dc",
+      "collections": [
+        "Man of Steel Collection",
+        "Suicide Squad Collection",
+        "Wonder Woman Collection",
+        "Aquaman Collection",
+        "Shazam! Collection"
+      ],
+      "output": "catalog/movie/franchise-dc.json"
+    },
+    {
+      "name": "Star Wars",
+      "catalog_id": "franchise-star-wars",
+      "collections": [
+        "Star Wars Collection"
+      ],
+      "output": "catalog/movie/franchise-star-wars.json"
+    },
+    {
+      "name": "Harry Potter",
+      "catalog_id": "franchise-harry-potter",
+      "collections": [
+        "Harry Potter Collection",
+        "Fantastic Beasts Collection"
+      ],
+      "output": "catalog/movie/franchise-harry-potter.json"
+    },
+    {
+      "name": "Middle-earth",
+      "catalog_id": "franchise-middle-earth",
+      "collections": [
+        "The Lord of the Rings Collection",
+        "The Hobbit Collection"
+      ],
+      "output": "catalog/movie/franchise-middle-earth.json"
+    },
+    {
+      "name": "James Bond",
+      "catalog_id": "franchise-james-bond",
+      "collections": [
+        "James Bond Collection"
+      ],
+      "output": "catalog/movie/franchise-james-bond.json"
+    },
+    {
+      "name": "Alien & Predator",
+      "catalog_id": "franchise-alien-predator",
+      "collections": [
+        "Alien Collection",
+        "Predator Collection",
+        "AVP Collection"
+      ],
+      "output": "catalog/movie/franchise-alien-predator.json"
+    },
+    {
+      "name": "Pirates of the Caribbean",
+      "catalog_id": "franchise-pirates",
+      "collections": [
+        "Pirates of the Caribbean Collection"
+      ],
+      "output": "catalog/movie/franchise-pirates.json"
+    },
+    {
+      "name": "Terminator",
+      "catalog_id": "franchise-terminator",
+      "collections": [
+        "The Terminator Collection"
+      ],
+      "output": "catalog/movie/franchise-terminator.json"
+    },
+    {
+      "name": "Mission: Impossible",
+      "catalog_id": "franchise-mission-impossible",
+      "collections": [
+        "Mission: Impossible Collection"
+      ],
+      "output": "catalog/movie/franchise-mission-impossible.json"
+    },
+    {
+      "name": "Jurassic Park",
+      "catalog_id": "franchise-jurassic",
+      "collections": [
+        "Jurassic Park Collection",
+        "Jurassic World Collection"
+      ],
+      "output": "catalog/movie/franchise-jurassic.json"
+    },
+    {
+      "name": "The Matrix",
+      "catalog_id": "franchise-matrix",
+      "collections": [
+        "The Matrix Collection"
+      ],
+      "output": "catalog/movie/franchise-matrix.json"
+    },
+    {
+      "name": "Fast & Furious",
+      "catalog_id": "franchise-fast-furious",
+      "collections": [
+        "The Fast and the Furious Collection"
+      ],
+      "output": "catalog/movie/franchise-fast-furious.json"
+    },
+    {
+      "name": "Spider-Man",
+      "catalog_id": "franchise-spider-man",
+      "collections": [
+        "Spider-Man Collection",
+        "The Amazing Spider-Man Collection",
+        "Spider-Man (MCU) Collection",
+        "Spider-Verse Collection"
+      ],
+      "output": "catalog/movie/franchise-spider-man.json"
+    },
+    {
+      "name": "Batman",
+      "catalog_id": "franchise-batman",
+      "collections": [
+        "Batman Collection",
+        "The Dark Knight Collection",
+        "The Batman Collection"
+      ],
+      "output": "catalog/movie/franchise-batman.json"
+    },
+    {
+      "name": "Superman",
+      "catalog_id": "franchise-superman",
+      "collections": [
+        "Superman Collection",
+        "Man of Steel Collection"
+      ],
+      "output": "catalog/movie/franchise-superman.json"
+    }
+  ]
+}
