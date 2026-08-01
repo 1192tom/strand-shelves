@@ -643,11 +643,6 @@
       "poster": "https://images.metahub.space/poster/medium/tt0351283/img"
     },
     {
-      "id": "tmdb:1664583",
-      "type": "movie",
-      "name": "Stranger Things: Tales from '85 Theatrical Preview"
-    },
-    {
       "id": "tt0107985",
       "type": "movie",
       "name": "Rookie of the Year",
@@ -1198,6 +1193,12 @@
       "type": "movie",
       "name": "Onward",
       "poster": "https://images.metahub.space/poster/medium/tt7146812/img"
+    },
+    {
+      "id": "tt0166813",
+      "type": "movie",
+      "name": "Spirit: Stallion of the Cimarron",
+      "poster": "https://images.metahub.space/poster/medium/tt0166813/img"
     }
   ]
 }
