@@ -8,7 +8,8 @@
     {
       "id": "tt38996949",
       "type": "movie",
-      "name": "Untitled hybrid live-action Teenage Mutant Ninja Turtles"
+      "name": "Untitled hybrid live-action Teenage Mutant Ninja Turtles",
+      "poster": "https://image.tmdb.org/t/p/w500/np6pwnasv7gwCM3qcODwfO6pKIv.jpg"
     },
     {
       "id": "tt8009732",
@@ -64,7 +65,8 @@
     {
       "id": "tt8992304",
       "type": "movie",
-      "name": "K-Pop: The Debut"
+      "name": "K-Pop: The Debut",
+      "poster": "https://image.tmdb.org/t/p/w500/bGz5IMugwOsoyASG5AwEy0NpZMg.jpg"
     },
     {
       "id": "tt6779038",
@@ -365,12 +367,6 @@
       "type": "movie",
       "name": "Unknown Dimension: The Story of Paranormal Activity",
       "poster": "https://image.tmdb.org/t/p/w500/10a5miRZ8FMNCiPC8PIc0sAdBlk.jpg"
-    },
-    {
-      "id": "tt10515988",
-      "type": "movie",
-      "name": "Paranormal Activity: Next of Kin",
-      "poster": "https://image.tmdb.org/t/p/w500/wRy3SwJFE55iL2bfKqECzP2qyrd.jpg"
     },
     {
       "id": "tt6654210",
@@ -1064,7 +1060,7 @@
       "id": "tt0938283",
       "type": "movie",
       "name": "The Last Airbender",
-      "poster": "https://image.tmdb.org/t/p/w500/kl9JJ8288bNsY8oqT1SpQh1w2mb.jpg"
+      "poster": "https://image.tmdb.org/t/p/w500/zgwRTYWEEPivTwjB9S03HtmMcbM.jpg"
     },
     {
       "id": "tt1753774",
@@ -1248,7 +1244,7 @@
       "id": "tt1117523",
       "type": "movie",
       "name": "Jackass 2.5",
-      "poster": "https://image.tmdb.org/t/p/w500/qriTT0KQvvuCs73z0LyEduw6XX.jpg"
+      "poster": "https://image.tmdb.org/t/p/w500/nFCSqC4bjK3Rn6gXHTZGpOUiJ1C.jpg"
     },
     {
       "id": "tt1179904",
@@ -1841,6 +1837,12 @@
       "poster": "https://image.tmdb.org/t/p/w500/cAh2pCiNPftsY3aSqJuIOde7uWr.jpg"
     },
     {
+      "id": "tt0271454",
+      "type": "movie",
+      "name": "The Day Reagan Was Shot",
+      "poster": "https://image.tmdb.org/t/p/w500/1hL7DXv5mpKfke3K7WJCZH03bzv.jpg"
+    },
+    {
       "id": "tt0249478",
       "type": "movie",
       "name": "Domestic Disturbance",
@@ -2287,7 +2289,7 @@
       "id": "tt0119081",
       "type": "movie",
       "name": "Event Horizon",
-      "poster": "https://image.tmdb.org/t/p/w500/cHoeg3gAD5w63Et5DImY1Jb7HaO.jpg"
+      "poster": "https://image.tmdb.org/t/p/w500/qfluaDXv0cIdLwgQWzNB2piHL2q.jpg"
     },
     {
       "id": "tt0118551",
