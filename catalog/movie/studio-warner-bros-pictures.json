@@ -3,7 +3,7 @@
     {
       "id": "tt33397805",
       "type": "movie",
-      "name": "Jehanne D'arc",
+      "name": "Jehanne d'Arc",
       "poster": "https://image.tmdb.org/t/p/w500/2yChN5ssxxUj0tj9e6Js4PDMwGB.jpg"
     },
     {
@@ -42,6 +42,12 @@
       "type": "movie",
       "name": "Panic Carefully",
       "poster": "https://image.tmdb.org/t/p/w500/h8Nh8xIPUtztXxRxSBfLizwqY9.jpg"
+    },
+    {
+      "id": "tt16911616",
+      "type": "movie",
+      "name": "Animal Friends",
+      "poster": "https://image.tmdb.org/t/p/w500/I65yQ8p6VqDK96JH5tpNZ0Q3DS.jpg"
     },
     {
       "id": "tt31450459",
@@ -1772,7 +1778,7 @@
       "id": "tt0366548",
       "type": "movie",
       "name": "Happy Feet",
-      "poster": "https://image.tmdb.org/t/p/w500/za41IHkj6LnkilfTzv5B2qmthKD.jpg"
+      "poster": "https://image.tmdb.org/t/p/w500/zP4CK9O70P8GDilfTkPm4lrmaks.jpg"
     },
     {
       "id": "tt0839995",
@@ -2359,12 +2365,6 @@
       "type": "movie",
       "name": "Thir13en Ghosts",
       "poster": "https://image.tmdb.org/t/p/w500/6yrrddjIjx0ElCRZp5pTZeqrj3k.jpg"
-    },
-    {
-      "id": "tt0139654",
-      "type": "movie",
-      "name": "Training Day",
-      "poster": "https://image.tmdb.org/t/p/w500/bUeiwBQdupBLQthMCHKV7zv56uv.jpg"
     }
   ]
 }

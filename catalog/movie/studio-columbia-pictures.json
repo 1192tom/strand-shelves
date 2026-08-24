@@ -15,7 +15,13 @@
       "id": "tt26735127",
       "type": "movie",
       "name": "Jumanji: Open World",
-      "poster": "https://image.tmdb.org/t/p/w500/wlzAdBQw2XnmVW05YEJLNdAbizA.jpg"
+      "poster": "https://image.tmdb.org/t/p/w500/qv0X60rC2SUWVvOkbgixpRoOSoq.jpg"
+    },
+    {
+      "id": "tt38686316",
+      "type": "movie",
+      "name": "Ghost Soldier",
+      "poster": "https://image.tmdb.org/t/p/w500/h3N9bQbuDtswq6nNtREpyhUYyv9.jpg"
     },
     {
       "id": "tt37510326",
@@ -27,13 +33,13 @@
       "id": "tt35538033",
       "type": "movie",
       "name": "Resident Evil",
-      "poster": "https://image.tmdb.org/t/p/w500/zP83bIkBViw5b1s9bDemYJ3AAgX.jpg"
+      "poster": "https://image.tmdb.org/t/p/w500/guq5cJ43v0qcMtLqrYHe5P9fgFM.jpg"
     },
     {
       "id": "tt22084616",
       "type": "movie",
       "name": "Spider-Man: Brand New Day",
-      "poster": "https://image.tmdb.org/t/p/w500/iPOn6DinuVyLY17YM9mKuPofV08.jpg"
+      "poster": "https://image.tmdb.org/t/p/w500/ghF1JYv7P5BgWHYfq9dqhqqNfz8.jpg"
     },
     {
       "id": "tt27613895",
@@ -225,7 +231,7 @@
       "id": "tt10872600",
       "type": "movie",
       "name": "Spider-Man: No Way Home",
-      "poster": "https://image.tmdb.org/t/p/w500/lf9ipxkVSWRcfYDnkla2ojpsxPz.jpg"
+      "poster": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg"
     },
     {
       "id": "tt4513678",
@@ -292,6 +298,12 @@
       "type": "movie",
       "name": "The Craft: Legacy",
       "poster": "https://image.tmdb.org/t/p/w500/lhMIra0pqWNuD6CIXoTmGwZ0EBS.jpg"
+    },
+    {
+      "id": "tt1634106",
+      "type": "movie",
+      "name": "Bloodshot",
+      "poster": "https://image.tmdb.org/t/p/w500/8WUVHemHFH2ZIP6NWkwlHWsyrEL.jpg"
     },
     {
       "id": "tt0983946",
@@ -1119,7 +1131,7 @@
       "id": "tt0838232",
       "type": "movie",
       "name": "The Pink Panther 2",
-      "poster": "https://image.tmdb.org/t/p/w500/qWhI9kn5OtxWB208Z88xAyhOJ68.jpg"
+      "poster": "https://image.tmdb.org/t/p/w500/aPg6iZjnBUlsmnCSGHX85T82AJ4.jpg"
     },
     {
       "id": "tt0963178",
@@ -1383,7 +1395,7 @@
       "id": "tt0383216",
       "type": "movie",
       "name": "The Pink Panther",
-      "poster": "https://image.tmdb.org/t/p/w500/th6i4TqJa5tEQaSKul2XgqSqTV9.jpg"
+      "poster": "https://image.tmdb.org/t/p/w500/57ViRkdsddHLK32W8Nf3ZPLSAu4.jpg"
     },
     {
       "id": "tt0395251",
@@ -1635,7 +1647,7 @@
       "id": "tt0271263",
       "type": "movie",
       "name": "Eight Crazy Nights",
-      "poster": "https://image.tmdb.org/t/p/w500/k25VkKJjo52vuo4rUKEG4qFLQjL.jpg"
+      "poster": "https://image.tmdb.org/t/p/w500/p8yiNFvs7q7ymxVAkym3WuYygrn.jpg"
     },
     {
       "id": "tt0297181",
@@ -2366,18 +2378,6 @@
       "type": "movie",
       "name": "The Pickle",
       "poster": "https://image.tmdb.org/t/p/w500/yCzdS1R27F675iSUIfOHQKxFpiB.jpg"
-    },
-    {
-      "id": "tt0107048",
-      "type": "movie",
-      "name": "Groundhog Day",
-      "poster": "https://image.tmdb.org/t/p/w500/gCgt1WARPZaXnq523ySQEUKinCs.jpg"
-    },
-    {
-      "id": "tt0107107",
-      "type": "movie",
-      "name": "Hexed",
-      "poster": "https://image.tmdb.org/t/p/w500/ijKY2vhrdBoWqXfE0twYMamwkQG.jpg"
     }
   ]
 }

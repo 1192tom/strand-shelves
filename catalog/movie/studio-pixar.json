@@ -247,7 +247,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/5HqBpRpwsMBTXVk950CVBH8h51W.jpg"
     },
     {
-      "id": "tt9536846",
+      "id": "tt33311980",
       "type": "movie",
       "name": "Float",
       "poster": "https://image.tmdb.org/t/p/w500/mgwObpU1NCXfPqF7ZaTpi80mxsF.jpg"
@@ -343,6 +343,12 @@
       "poster": "https://image.tmdb.org/t/p/w500/3UVe8NL1E2ZdUZ9EDlKGJY5UzE.jpg"
     },
     {
+      "id": "tt5325248",
+      "type": "movie",
+      "name": "Toy Story at 20: To Infinity and Beyond",
+      "poster": "https://image.tmdb.org/t/p/w500/e1A7HontTztPtBCGwAHqIF0CIj4.jpg"
+    },
+    {
       "id": "tt4661600",
       "type": "movie",
       "name": "Sanjay's Super Team",
@@ -407,6 +413,12 @@
       "type": "movie",
       "name": "The Blue Umbrella",
       "poster": "https://image.tmdb.org/t/p/w500/iSWV7ra8HJ3gYnZFMMrPe8CBbrv.jpg"
+    },
+    {
+      "id": "tt2698964",
+      "type": "movie",
+      "name": "Bloomberg Inside: Pixar",
+      "poster": "https://image.tmdb.org/t/p/w500/iQiS0k6JqJ9nAAD40D4xegv9lUr.jpg"
     },
     {
       "id": "tt2565938",
@@ -640,7 +652,7 @@
       "id": "tt0266543",
       "type": "movie",
       "name": "Finding Nemo",
-      "poster": "https://image.tmdb.org/t/p/w500/5lc6nQc0VhWFYFbNv016xze8Jvy.jpg"
+      "poster": "https://image.tmdb.org/t/p/w500/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg"
     },
     {
       "id": "tt0323250",
@@ -689,6 +701,12 @@
       "type": "movie",
       "name": "The Story Behind 'Toy Story'",
       "poster": "https://image.tmdb.org/t/p/w500/ul7sy0m9GPifIgMaEXX8ivENqHP.jpg"
+    },
+    {
+      "id": "tt0245255",
+      "type": "movie",
+      "name": "The Making of Toy Story",
+      "poster": "https://image.tmdb.org/t/p/w500/s2vPOYtuOY3DMYTduRx0cOzDcWm.jpg"
     },
     {
       "id": "tt0114709",
@@ -771,7 +789,8 @@
     {
       "id": "tt42459696",
       "type": "movie",
-      "name": "Mother's Nature"
+      "name": "Mother's Nature",
+      "poster": "https://image.tmdb.org/t/p/w500/lMB8fx2MaJHCog6ysTqX6XBS935.jpg"
     },
     {
       "id": "tt43621603",
