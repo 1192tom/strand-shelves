@@ -18,6 +18,12 @@
       "poster": "https://image.tmdb.org/t/p/w500/egCSujwhXCKYjRo4IAhWFEKXDB.jpg"
     },
     {
+      "id": "tt34385341",
+      "type": "movie",
+      "name": "Days of Thunder 2",
+      "poster": "https://image.tmdb.org/t/p/w500/xVT7gq3tIhZXu4hAmTXLVRU4B01.jpg"
+    },
+    {
       "id": "tt42004793",
       "type": "movie",
       "name": "Heart Eyes 2"
@@ -222,7 +228,7 @@
       "id": "tt13433802",
       "type": "movie",
       "name": "A Quiet Place: Day One",
-      "poster": "https://image.tmdb.org/t/p/w500/2JhadBY56wfnGUFfTX1ftPW1nyL.jpg"
+      "poster": "https://image.tmdb.org/t/p/w500/hU42CRk14JuPEdqZG3AWmagiPAP.jpg"
     },
     {
       "id": "tt11152168",
@@ -378,7 +384,7 @@
       "id": "tt11832046",
       "type": "movie",
       "name": "PAW Patrol: The Movie",
-      "poster": "https://image.tmdb.org/t/p/w500/ic0intvXZSfBlYPIvWXpU1ivUCO.jpg"
+      "poster": "https://image.tmdb.org/t/p/w500/jXavWyam2VPR6bOhLwwuP3K2Hw4.jpg"
     },
     {
       "id": "tt8404256",
@@ -1214,7 +1220,8 @@
     {
       "id": "tt1205061",
       "type": "movie",
-      "name": "The Making of 'No Country for Old Men'"
+      "name": "The Making of 'No Country for Old Men'",
+      "poster": "https://image.tmdb.org/t/p/w500/obN4fxPzj988CmkwOGf9twNLABF.jpg"
     },
     {
       "id": "tt0416236",
@@ -2290,12 +2297,6 @@
       "type": "movie",
       "name": "Event Horizon",
       "poster": "https://image.tmdb.org/t/p/w500/qfluaDXv0cIdLwgQWzNB2piHL2q.jpg"
-    },
-    {
-      "id": "tt0118551",
-      "type": "movie",
-      "name": "Rock-A-Big Baby",
-      "poster": "https://image.tmdb.org/t/p/w500/a6e7pg243vQwhz60J7U6ZXLzrWk.jpg"
     }
   ]
 }
