@@ -103,6 +103,12 @@
       "poster": "https://image.tmdb.org/t/p/w500/xwm7TGTmQcM2PkVvMxTjpYYk600.jpg"
     },
     {
+      "id": "tt25868520",
+      "type": "movie",
+      "name": "Rise of the Conqueror",
+      "poster": "https://image.tmdb.org/t/p/w500/9cRE0DsM6CNIiY9Ah3cd8oc3n1Y.jpg"
+    },
+    {
       "id": "tt41368989",
       "type": "movie",
       "name": "Finding Harry: The Craft Behind the Magic",
@@ -147,8 +153,14 @@
     {
       "id": "tt32897959",
       "type": "movie",
-      "name": "\"Wuthering Heights\"",
+      "name": "“Wuthering Heights”",
       "poster": "https://image.tmdb.org/t/p/w500/3YBce6dTh1D5oCMITXk2S5QhPt.jpg"
+    },
+    {
+      "id": "tt27613895",
+      "type": "movie",
+      "name": "GOAT",
+      "poster": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg"
     },
     {
       "id": "tt39300766",
@@ -490,7 +502,7 @@
       "id": "tt29644189",
       "type": "movie",
       "name": "Black Phone 2",
-      "poster": "https://image.tmdb.org/t/p/w500/gFddBLQ8wj9M9O82iPzgX5KVNHz.jpg"
+      "poster": "https://image.tmdb.org/t/p/w500/vBOpqxW0SDhACwEO2LZT29DuNG2.jpg"
     },
     {
       "id": "tt37211211",
@@ -868,7 +880,7 @@
       "id": "tt32246771",
       "type": "movie",
       "name": "Bring Her Back",
-      "poster": "https://image.tmdb.org/t/p/w500/fp4PvxoWb9bwsvInicJPXByj4CS.jpg"
+      "poster": "https://image.tmdb.org/t/p/w500/1Q3GlCXGYWELifxANYZ5OVMRVZl.jpg"
     },
     {
       "id": "tt9603208",
@@ -952,7 +964,7 @@
       "id": "tt15042300",
       "type": "movie",
       "name": "On Swift Horses",
-      "poster": "https://image.tmdb.org/t/p/w500/qs2AeWbLklk9I5UbI8bllZVfF2V.jpg"
+      "poster": "https://image.tmdb.org/t/p/w500/5DNMeesJKMh7LLCzvsXGPDciTAJ.jpg"
     },
     {
       "id": "tt35976712",
@@ -1151,18 +1163,6 @@
       "type": "movie",
       "name": "Return to Office",
       "poster": "https://image.tmdb.org/t/p/w500/kOeZY4KhapLxPT9oAAVvZu80DTN.jpg"
-    },
-    {
-      "id": "tt32063050",
-      "type": "movie",
-      "name": "Bridget Jones: Mad About the Boy",
-      "poster": "https://image.tmdb.org/t/p/w500/e5VR3nhLYG60znxaqU84wv4VSCb.jpg"
-    },
-    {
-      "id": "tt32558992",
-      "type": "movie",
-      "name": "Heart Eyes",
-      "poster": "https://image.tmdb.org/t/p/w500/ebqttF1Vjgde6uSFBEw9mta7Hd3.jpg"
     }
   ]
 }
