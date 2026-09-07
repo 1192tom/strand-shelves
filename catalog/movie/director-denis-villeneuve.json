@@ -109,6 +109,12 @@
       "poster": "https://image.tmdb.org/t/p/w500/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
     },
     {
+      "id": "tt32514223",
+      "type": "movie",
+      "name": "Dune: Part Two - An Ensemble for the Ages",
+      "poster": "https://image.tmdb.org/t/p/w500/mZS9URpw3UnQgkAVOvwqnQ1Qr8K.jpg"
+    },
+    {
       "id": "tt31378509",
       "type": "movie",
       "name": "Dune: Part Three",
@@ -117,7 +123,8 @@
     {
       "id": "tt13152476",
       "type": "movie",
-      "name": "James Bond 26"
+      "name": "Untitled James Bond Film",
+      "poster": "https://image.tmdb.org/t/p/w500/AqH9lbww9UvHjQNnlKZve6r0iu8.jpg"
     }
   ]
 }
