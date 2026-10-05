@@ -25,10 +25,16 @@
       "poster": "https://image.tmdb.org/t/p/w500/5CZdxLiBpYMBXwo0rur6YzZTVP4.jpg"
     },
     {
+      "id": "tt39150922",
+      "type": "movie",
+      "name": "Nuisance Bear",
+      "poster": "https://image.tmdb.org/t/p/w500/14CBUusCS8f7XHmhwJrsuvNPfUr.jpg"
+    },
+    {
       "id": "tt34385184",
       "type": "movie",
       "name": "Misty Green",
-      "poster": "https://image.tmdb.org/t/p/w500/qOFIOfZzteCoiOFjXDvqTgBnUTz.jpg"
+      "poster": "https://image.tmdb.org/t/p/w500/dUFtfnSfUK5IUfC5XMlMEY36EAp.jpg"
     },
     {
       "id": "tt34206385",
@@ -83,12 +89,6 @@
       "type": "movie",
       "name": "The Moment",
       "poster": "https://image.tmdb.org/t/p/w500/dYgCgTqqMnWdsnP2XirdcFB28ch.jpg"
-    },
-    {
-      "id": "tt39150922",
-      "type": "movie",
-      "name": "Nuisance Bear",
-      "poster": "https://image.tmdb.org/t/p/w500/14CBUusCS8f7XHmhwJrsuvNPfUr.jpg"
     },
     {
       "id": "tt32916440",
@@ -235,12 +235,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/i4qK3vQS4MD8OKhIkqSe3UK6OuH.jpg"
     },
     {
-      "id": "tt14682800",
-      "type": "movie",
-      "name": "Tuesday",
-      "poster": "https://image.tmdb.org/t/p/w500/zrd6blans3SqghHSxPAl7tqnaOf.jpg"
-    },
-    {
       "id": "tt29644446",
       "type": "movie",
       "name": "The Sixth",
@@ -257,6 +251,12 @@
       "type": "movie",
       "name": "Civil War",
       "poster": "https://image.tmdb.org/t/p/w500/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg"
+    },
+    {
+      "id": "tt14682800",
+      "type": "movie",
+      "name": "Tuesday",
+      "poster": "https://image.tmdb.org/t/p/w500/zrd6blans3SqghHSxPAl7tqnaOf.jpg"
     },
     {
       "id": "tt31039503",
@@ -772,7 +772,7 @@
     {
       "id": "tt39635043",
       "type": "movie",
-      "name": "Texas Chainsaw Massacre",
+      "name": "The Texas Chainsaw Massacre",
       "poster": "https://image.tmdb.org/t/p/w500/iH2dwaYfIYnfQ2zGJ1xyO92QSOz.jpg"
     },
     {
