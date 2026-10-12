@@ -475,12 +475,6 @@
       "poster": "https://images.metahub.space/poster/medium/tt15789038/img"
     },
     {
-      "id": "tt1051904",
-      "type": "movie",
-      "name": "Goosebumps",
-      "poster": "https://images.metahub.space/poster/medium/tt1051904/img"
-    },
-    {
       "id": "tt3606752",
       "type": "movie",
       "name": "Cars 3",
@@ -737,12 +731,6 @@
       "type": "movie",
       "name": "Cloudy with a Chance of Meatballs",
       "poster": "https://images.metahub.space/poster/medium/tt0844471/img"
-    },
-    {
-      "id": "tt5113044",
-      "type": "movie",
-      "name": "Minions: The Rise of Gru",
-      "poster": "https://images.metahub.space/poster/medium/tt5113044/img"
     },
     {
       "id": "tt1690953",
@@ -1499,6 +1487,18 @@
       "type": "movie",
       "name": "Valiant",
       "poster": "https://images.metahub.space/poster/medium/tt0361089/img"
+    },
+    {
+      "id": "tt0286244",
+      "type": "movie",
+      "name": "The Triplets of Belleville",
+      "poster": "https://images.metahub.space/poster/medium/tt0286244/img"
+    },
+    {
+      "id": "tt0078480",
+      "type": "movie",
+      "name": "Watership Down",
+      "poster": "https://images.metahub.space/poster/medium/tt0078480/img"
     }
   ]
 }
