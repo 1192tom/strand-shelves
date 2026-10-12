@@ -43,7 +43,7 @@
       "id": "tt41786209",
       "type": "movie",
       "name": "Hexagram",
-      "poster": "https://image.tmdb.org/t/p/w500/5qfQvRmYCgPXHwmZAWGWgEDVNuZ.jpg"
+      "poster": "https://image.tmdb.org/t/p/w500/skIAtJgGJjgiVQvig5QOK2Kz0F8.jpg"
     },
     {
       "id": "tt14014196",
@@ -71,7 +71,7 @@
     {
       "id": "tt39104938",
       "type": "movie",
-      "name": "Paranormal Activity 8",
+      "name": "Paranormal Activity",
       "poster": "https://image.tmdb.org/t/p/w500/5qwFilGZbYaXHLG4I1Kp82bwbGL.jpg"
     },
     {
@@ -88,7 +88,7 @@
     {
       "id": "tt8992304",
       "type": "movie",
-      "name": "K-Pop: The Debut",
+      "name": "K-POP: The Debut",
       "poster": "https://image.tmdb.org/t/p/w500/bGz5IMugwOsoyASG5AwEy0NpZMg.jpg"
     },
     {
@@ -134,6 +134,12 @@
       "poster": "https://image.tmdb.org/t/p/w500/tfgccePxnswMqhmtxafliLlcCVR.jpg"
     },
     {
+      "id": "tt32093575",
+      "type": "movie",
+      "name": "Scary Movie",
+      "poster": "https://image.tmdb.org/t/p/w500/znHT8peERZRWG1ME3r0Db0EV8k8.jpg"
+    },
+    {
       "id": "tt34378301",
       "type": "movie",
       "name": "Tom Clancy's Jack Ryan: Ghost War",
@@ -144,6 +150,12 @@
       "type": "movie",
       "name": "Passenger",
       "poster": "https://image.tmdb.org/t/p/w500/svrAzMTif4OmIjGJzC0W92d5O1o.jpg"
+    },
+    {
+      "id": "tt39018643",
+      "type": "movie",
+      "name": "Billie Eilish - Hit Me Hard and Soft: The Tour (Live in 3D)",
+      "poster": "https://image.tmdb.org/t/p/w500/zfFvltKHntGBupFuubx3r61v48e.jpg"
     },
     {
       "id": "tt27047903",
@@ -807,7 +819,7 @@
       "id": "tt1340138",
       "type": "movie",
       "name": "Terminator Genisys",
-      "poster": "https://image.tmdb.org/t/p/w500/vvlNR34aejOLZkz7fXkkbKyBj5p.jpg"
+      "poster": "https://image.tmdb.org/t/p/w500/oZRVDpNtmHk8M1VYy1aeOWUXgbC.jpg"
     },
     {
       "id": "tt1950135",
@@ -2296,18 +2308,6 @@
       "type": "movie",
       "name": "Kiss the Girls",
       "poster": "https://image.tmdb.org/t/p/w500/a4P8PD9kvN0IZnDzsyurVs2WaJX.jpg"
-    },
-    {
-      "id": "tt0119360",
-      "type": "movie",
-      "name": "In & Out",
-      "poster": "https://image.tmdb.org/t/p/w500/jUTQp6cPgfOX4St2WfaeUvxZCts.jpg"
-    },
-    {
-      "id": "tt0124023",
-      "type": "movie",
-      "name": "The Don's Analyst",
-      "poster": "https://image.tmdb.org/t/p/w500/zoKuqpkLLV9UKDEsnwAuLBWnKjZ.jpg"
     }
   ]
 }
