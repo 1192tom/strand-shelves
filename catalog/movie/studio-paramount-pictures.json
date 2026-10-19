@@ -1140,12 +1140,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/useGH8nfwlaHK44IWEZdUYJOE2N.jpg"
     },
     {
-      "id": "tt1179904",
-      "type": "movie",
-      "name": "Paranormal Activity",
-      "poster": "https://image.tmdb.org/t/p/w500/tmclkEpjeo4Zu564gf3KrwIOuKw.jpg"
-    },
-    {
       "id": "tt0795351",
       "type": "movie",
       "name": "Case 39",
@@ -2308,6 +2302,12 @@
       "type": "movie",
       "name": "Kiss the Girls",
       "poster": "https://image.tmdb.org/t/p/w500/a4P8PD9kvN0IZnDzsyurVs2WaJX.jpg"
+    },
+    {
+      "id": "tt0119360",
+      "type": "movie",
+      "name": "In & Out",
+      "poster": "https://image.tmdb.org/t/p/w500/jUTQp6cPgfOX4St2WfaeUvxZCts.jpg"
     }
   ]
 }
