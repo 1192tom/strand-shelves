@@ -972,12 +972,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/xuRAyIUJmgXwI1ba06AxYBAQMTc.jpg"
     },
     {
-      "id": "tt1785612",
-      "type": "movie",
-      "name": "The Punk Singer",
-      "poster": "https://image.tmdb.org/t/p/w500/d8k0rBZKAh15dGw6NQVMO25zhuw.jpg"
-    },
-    {
       "id": "tt4117964",
       "type": "movie",
       "name": "Table Manners",
@@ -1005,13 +999,13 @@
       "id": "tt2345112",
       "type": "movie",
       "name": "Parkland",
-      "poster": "https://image.tmdb.org/t/p/w500/23jc1Hclf1FFxpyYs9A4SxfRbK3.jpg"
+      "poster": "https://image.tmdb.org/t/p/w500/XusTbjElwkv0tJiRDXsKi6aYZZ.jpg"
     },
     {
       "id": "tt1894476",
       "type": "movie",
       "name": "How I Live Now",
-      "poster": "https://image.tmdb.org/t/p/w500/4drLEdRSIzKZOKLsM79kBvsuq18.jpg"
+      "poster": "https://image.tmdb.org/t/p/w500/AuIGRLZTpA653hLIi4nsKTxnwb8.jpg"
     },
     {
       "id": "tt2375574",
@@ -2372,6 +2366,12 @@
       "type": "movie",
       "name": "The Bridge",
       "poster": "https://image.tmdb.org/t/p/w500/uYeio41CwLgqiG2vDEEY52cZpJZ.jpg"
+    },
+    {
+      "id": "tt0101617",
+      "type": "movie",
+      "name": "Coping with Cupid",
+      "poster": "https://image.tmdb.org/t/p/w500/60A34R9M3nuDetelQgth9NPYG39.jpg"
     }
   ]
 }
