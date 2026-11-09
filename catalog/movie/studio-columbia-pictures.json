@@ -84,7 +84,7 @@
       "id": "tt35538033",
       "type": "movie",
       "name": "Resident Evil",
-      "poster": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg"
+      "poster": "https://image.tmdb.org/t/p/w500/gAgWJhUSQWCgtKR8170nMkYlBda.jpg"
     },
     {
       "id": "tt22084616",
@@ -407,7 +407,7 @@
     {
       "id": "tt7131622",
       "type": "movie",
-      "name": "Once Upon a Time... in Hollywood",
+      "name": "Once Upon a Time in… Hollywood",
       "poster": "https://image.tmdb.org/t/p/w500/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg"
     },
     {
@@ -834,7 +834,7 @@
       "id": "tt2017020",
       "type": "movie",
       "name": "The Smurfs 2",
-      "poster": "https://image.tmdb.org/t/p/w500/tmjvgbEH4BKYFfHmWXjXrHgi8wT.jpg"
+      "poster": "https://image.tmdb.org/t/p/w500/fBfdHgG9sMNOqiu1QXZPUzXChE0.jpg"
     },
     {
       "id": "tt2191701",
@@ -1932,7 +1932,7 @@
       "id": "tt0292930",
       "type": "movie",
       "name": "The Art of Stanley Kubrick: From Short Films to Strangelove",
-      "poster": "https://image.tmdb.org/t/p/w500/7QH4nN29txyY3PNQiYX8347KzAA.jpg"
+      "poster": "https://image.tmdb.org/t/p/w500/soot97fbgA4dmz3C9exu4QtwZYS.jpg"
     },
     {
       "id": "tt0191754",
@@ -2095,6 +2095,12 @@
       "type": "movie",
       "name": "Shadrach",
       "poster": "https://image.tmdb.org/t/p/w500/zXqzSRvIUBBJRVaHXXQSEkGMmdY.jpg"
+    },
+    {
+      "id": "tt0120576",
+      "type": "movie",
+      "name": "Dance with Me",
+      "poster": "https://image.tmdb.org/t/p/w500/mJ1LDb5MOIAwH8LQ019Vg36Yh3O.jpg"
     },
     {
       "id": "tt0127723",
@@ -2370,12 +2376,6 @@
       "type": "movie",
       "name": "The Remains of the Day",
       "poster": "https://image.tmdb.org/t/p/w500/uDGDtqSvuch324WnM7Ukdp1bCAQ.jpg"
-    },
-    {
-      "id": "tt0108238",
-      "type": "movie",
-      "name": "Striking Distance",
-      "poster": "https://image.tmdb.org/t/p/w500/1bLazrQWJQhO6u58vJZXJZ3ZFDh.jpg"
     }
   ]
 }
