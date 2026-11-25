@@ -1,18 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt0115503",
-      "type": "movie",
-      "name": "Alien Avengers",
-      "poster": "https://image.tmdb.org/t/p/w500/nxA32JyncnLhWjl6vJ9atYlhSXZ.jpg"
-    },
-    {
-      "id": "tt0118581",
-      "type": "movie",
-      "name": "Alien Avengers II",
-      "poster": "https://image.tmdb.org/t/p/w500/sc3RkS9nJvHllOSkfTbcSTgA9wa.jpg"
-    },
-    {
       "id": "tt0371746",
       "type": "movie",
       "name": "Iron Man",
@@ -61,6 +49,12 @@
       "poster": "https://image.tmdb.org/t/p/w500/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg"
     },
     {
+      "id": "tt4296026",
+      "type": "movie",
+      "name": "Avengers Grimm",
+      "poster": "https://image.tmdb.org/t/p/w500/9sdAHQxt53W8gZKivX0Pdk4DuXA.jpg"
+    },
+    {
       "id": "tt0478970",
       "type": "movie",
       "name": "Ant-Man",
@@ -71,6 +65,12 @@
       "type": "movie",
       "name": "Captain America: Civil War",
       "poster": "https://image.tmdb.org/t/p/w500/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg"
+    },
+    {
+      "id": "tt5481984",
+      "type": "movie",
+      "name": "Sinister Squad",
+      "poster": "https://image.tmdb.org/t/p/w500/vRiUN3Hg6vAg0o2lT3HPnWnIIC5.jpg"
     },
     {
       "id": "tt1211837",
@@ -95,6 +95,12 @@
       "type": "movie",
       "name": "Black Panther",
       "poster": "https://image.tmdb.org/t/p/w500/uxzzxijgPIY7slzFvMotPv8wjKA.jpg"
+    },
+    {
+      "id": "tt8159584",
+      "type": "movie",
+      "name": "Avengers Grimm: Time Wars",
+      "poster": "https://image.tmdb.org/t/p/w500/nNlDEQ4ksXpzpu3M230Yba6zMQv.jpg"
     },
     {
       "id": "tt5095030",
